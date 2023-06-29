@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 En el siguiente mapa conceptual, se presenta un resumen de lo visto en el componente frente a las Rutas Integrales de Atención en Salud:
 
     .row.justify-content-center
       .col-lg-10.mb-5
