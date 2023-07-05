@@ -17,7 +17,7 @@
             .col-2.ps-5.pe-4
               img(src='@/assets/curso/temas/img01.svg')
             .col
-              p.mb-0 Son una herramienta de obligatorio cumplimiento establecida en el marco de la Política PAIS y la Resolución 3202 de 2016, que contribuyen a que las personas, familias y comunidades #[strong alcancen resultados en salud], teniendo en cuenta las particularidades del territorio donde viven, se relacionan y se desarrollan. Permiten #[strong orientar y ordenar la gestión] de la atención integral en salud a cargo de los actores del Sistema General de Seguridad Social en Salud -SGSSS- de manera continua y consecuente con la situación y características de cada territorio, así́ como la gestión intersectorial para la afectación de los determinantes sociales de la salud. Integran, además, las atenciones individuales, colectivas y poblacionales para la promoción de la salud, prevención de la enfermedad, diagnóstico, tratamiento, rehabilitación, paliación, y plantean las acciones de cuidado que se esperan del individuo para el mantenimiento o recuperación de su salud. En la siguiente figura, se presenta el objetivo de las RIAS:
+              p.mb-0 Son una herramienta de obligatorio cumplimiento establecida en el marco de la Política PAIS y la Resolución 3202 de 2016, que contribuyen a que las personas, familias y comunidades #[strong alcancen resultados en salud], teniendo en cuenta las particularidades del territorio donde viven, se relacionan y se desarrollan. Permiten #[strong orientar y ordenar la gestión] de la atención integral en salud a cargo de los actores del Sistema General de Seguridad Social en Salud -SGSSS- de manera continua y consecuente con la situación y características de cada territorio, así como la gestión intersectorial para la afectación de los determinantes sociales de la salud. Integran, además, las atenciones individuales, colectivas y poblacionales para la promoción de la salud, prevención de la enfermedad, diagnóstico, tratamiento, rehabilitación, paliación, y plantean las acciones de cuidado que se esperan del individuo para el mantenimiento o recuperación de su salud. En la siguiente figura, se presenta el objetivo de las RIAS:
 
     .row.justify-content-center.mb-5
       .col-lg-8
@@ -37,36 +37,36 @@
         ul.lista-ul--color.lista-ul--separador.mb-0
           li(style="margin-bottom: 2px")
             i.fas.fa-check-circle(style="color: #6F88DA;")
-            | Son una herramienta centrada en las personas, que ubica en un lugar estratégico el ejercicio del derecho a la salud.
+            p.mb-0 Son una herramienta #[strong centrada en las personas  ], que ubica en un lugar estratégico el ejercicio del derecho a la salud.
           li(style="margin-bottom: 2px")
             i.fas.fa-check-circle(style="color: #6F88DA;")
-            | Están orientadas a incidir en los resultados en salud de impacto e intermedios, así como en la calidad de la atención.
+            p.mb-0 #[strong Están orientadas a incidir en los resultados en salud ] de impacto e intermedios, así como en la calidad de la atención.
           li(style="margin-bottom: 2px")
             i.fas.fa-check-circle(style="color: #6F88DA;")
-            | Definen la gestión y atenciones requeridas para anticiparse a la contingencia con atenciones de promoción de la salud. 
+            p.mb-0 Definen la #[strong gestión y atenciones requeridas  ] para anticiparse a la contingencia con atenciones de promoción de la salud. 
           li(style="margin-bottom: 2px")
             i.fas.fa-check-circle(style="color: #6F88DA;")
-            | Permiten pasar de un abordaje disciplinar a un abordaje multidisciplinar, y de un abordaje fragmentado a un abordaje integral de los sujetos. 
+            p.mb-0 Permiten pasar de un #[strong abordaje disciplinar a un abordaje multidisciplinar  ], y de un abordaje fragmentado a un #[strong abordaje integral de los sujetos ]. 
           li(style="margin-bottom: 2px")
             i.fas.fa-check-circle(style="color: #6F88DA;")
-            | Reconocen la familia como sujeto de atención en salud y tienen en cuenta el contexto familiar en la salud de las personas. Asimismo, reconocen que estos hacen parte de una comunidad.
+            p.mb-0 Reconocen la #[strong familia como sujeto de atención en salud ] y tienen en cuenta el #[strong contexto familiar  ] en la salud de las personas. Asimismo, reconocen que estos hacen parte de una comunidad.
           li(style="margin-bottom: 2px")
             i.fas.fa-check-circle(style="color: #6F88DA;")
-            | Plantean intervenciones integrales, complementarias y anticipatorias, que contribuyan a la garantía de condiciones para el desarrollo humano, teniendo en cuenta las ventanas de oportunidad en el desarrollo integral de las personas en sus diferentes momentos del curso de la vida.
+            p.mb-0 Plantean #[strong intervenciones integrales, complementarias y anticipatorias], que contribuyan a la garantía de condiciones para el desarrollo humano, teniendo en cuenta las ventanas de oportunidad en el desarrollo integral de las personas en sus diferentes momentos del curso de la vida.
           li(style="margin-bottom: 2px")
             i.fas.fa-check-circle(style="color: #6F88DA;")
-            | Logran la complementariedad de la atención desde la baja complejidad hasta la alta complejidad.
+            p.mb-0 Logran la #[strong complementariedad de la atención] desde la baja complejidad hasta la alta complejidad.
           li(style="margin-bottom: 2px")
             i.fas.fa-check-circle(style="color: #6F88DA;")
-            | Reorganizan las respuestas programáticas en función de la atención integral en salud y los sujetos.
+            p.mb-0 #[strong Reorganizan las respuestas programáticas] en función de la atención integral en salud y los sujetos.
     hr(style="margin: 0.5em")   
     ul.lista-ul--color.lista-ul--separador.mb-5(data-aos="fade-right")
       li(style="margin-bottom: 2px")
         i.fas.fa-check-circle(style="color: #6F88DA;")
-        | Ubican los entornos como escenarios de transformación social que puedan potenciarse como protectores y promotores de la salud y el desarrollo humano, así como en unidades de gestión donde se pueden materializar las atenciones (individuales, colectivas y poblacionales).
+        p.mb-0 Ubican los #[strong entornos como escenarios de transformación social] que puedan potenciarse como protectores y promotores de la salud y el desarrollo humano, así como en unidades de gestión donde se pueden materializar las atenciones (individuales, colectivas y poblacionales).
       li(style="margin-bottom: 2px")
         i.fas.fa-check-circle(style="color: #6F88DA;")
-        | La operación de las RIAS reconoce el territorio como unidad base, donde se integran el sistema de salud y los agentes responsables de garantizar la atención integral en salud.
+        p.mb-0 La operación de las RIAS reconoce el #[strong territorio como unidad base], donde se integran el sistema de salud y los agentes responsables de garantizar la atención integral en salud.
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -106,14 +106,14 @@
             template(v-slot:imagen)
               figure
                 img(src='@/assets/curso/tema3/img06.svg' alt="Tipos de RIAS")
-            div(x="29.5%" y="33.5%" tooltip="Ruta integral de atención en salud para la promoción y mantenimiento de la salud" numero="+")
-              .h5 Ruta integral de atención en salud para la promoción y mantenimiento de la salud (RPMS)
+            div(x="29.35%" y="33.4%" tooltip="Ruta Integral de Atención en Salud para la Promoción y Mantenimiento de la Salud" numero="+")
+              .h5 Ruta Integral de Atención en Salud para la Promoción y Mantenimiento de la Salud (RPMS)
               p.mb-0 Centrada en la promoción de la salud, la prevención del riesgo y la enfermedad, así como la generación de una cultura del cuidado de la salud en las personas, familias y comunidades. Aplica para toda la población residente en el territorio.
-            div(x="29.5%" y="65.5%" tooltip="Rutas Integrales de Atención en Salud para grupos de riesgo" numero="+")
+            div(x="29.35%" y="66.4%" tooltip="Rutas Integrales de Atención en Salud para grupos de riesgo" numero="+")
               .h5 Rutas Integrales de Atención en Salud para grupos de riesgo
-              p.mb-0 Tienen el objetivo de identificar e intervenir oportunamente factores de riesgo, ya sea para evitar la aparición de una o varias condiciones específicas en salud o para realizar el diagnóstico, tratamiento, rehabilitación y paliación, según cada situación. Esta ruta aplica para la población en riesgo residente en el territorio, ya sea detectada en el marco de la RPMS, en el marco de otra Ruta de Riesgo o por demanda espontánea. La RIAS para población materno - perinatal (RIAMP) hace parte de este grupo de RIAS de riesgo, aunque se considera totalmente vinculada a la RPMS y es un “bucle” de la atención en el marco de la RPMS
-            div(x="29.5%" y="89.5%" tooltip="Ruta integral de atención en salud para eventos específicos" numero="+")
-              .h5 Ruta integral de atención en salud para eventos específicos
+              p.mb-0 Tienen el objetivo de identificar e intervenir oportunamente factores de riesgo, ya sea para evitar la aparición de una o varias condiciones específicas en salud o para realizar el diagnóstico, tratamiento, rehabilitación y paliación, según cada situación. Esta ruta aplica para la población en riesgo residente en el territorio, ya sea detectada en el marco de la RPMS, en el marco de otra ruta de riesgo o por demanda espontánea. La RIAS para población materno - perinatal (RIAMP) hace parte de este grupo de RIAS de riesgo, aunque se considera totalmente vinculada a la RPMS y es un “bucle” de la atención en el marco de la RPMS.
+            div(x="29.35%" y="89.5%" tooltip="Ruta Integral de Atención en Salud para eventos específicos" numero="+")
+              .h5 Ruta Integral de Atención en Salud para eventos específicos
               p.mb-0 Estas rutas se definen a partir de aquellos eventos específicos priorizados por RIAS de riesgo. Se orientan al tratamiento, rehabilitación y paliación, según sea el caso.
     
     .cajon.color-acento-contenido.p-4.mb-4
@@ -127,7 +127,7 @@
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema3/img07.png')
       .col-lg-7(data-aos="fade-left")
-        p.mb-0 Las RIAS plantean una estructura que reconoce, en primera instancia, los resultados en salud a los que deben apuntar todos los agentes del sistema de salud; desde allí, reconoce las intervenciones poblacionales, colectivas e individuales, que según la evidencia disponible permiten aportar a dichos resultados en salud y plantean un marco amplio de acciones de gestión de la salud pública (Resolución 518 de 2015) que permiten garantizar que se brinden las intervenciones y se gestionen, desde la coordinación intersectorial, las acciones que correspondan para afectar los determinantes sociales de la salud.
+        p.mb-0 Las RIAS plantean una estructura que reconoce, en primera instancia, los #[strong resultados en salud] a los que deben apuntar todos los agentes del sistema de salud; desde allí, reconoce las #[strong intervenciones poblacionales, colectivas e individuales], que según la evidencia disponible permiten aportar a dichos resultados en salud y plantean un marco amplio de #[strong acciones de gestión de la salud pública] (Resolución 518 de 2015) que permiten garantizar que se brinden las intervenciones y se gestionen, desde la coordinación intersectorial, las acciones que correspondan para afectar los determinantes sociales de la salud.
 
     .row.justify-content-center.mb-5
       .col-lg-8

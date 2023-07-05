@@ -17,10 +17,10 @@
             .col-lg-1.col-2
               img(src='@/assets/curso/temas/img02.svg')
             .col
-              p.mb-0 Este componente formativo brinda los elementos para la comprensión de la atención integral en salud, los desarrollos normativos y conceptuales que le son propios, haciendo énfasis en las Rutas Integrales de Atención en Salud como una apuesta del sector, y en particular, en la Ruta Integral de Atención para la Promoción y Mantenimiento de la Salud.
+              p.mb-0 Este componente formativo brinda los elementos para la comprensión de la Atención Integral en Salud, los desarrollos normativos y conceptuales que le son propios, haciendo énfasis en las Rutas Integrales de Atención en Salud como una apuesta del sector, y en particular, en la Ruta Integral de Atención para la Promoción y Mantenimiento de la Salud.
 
     TabsC.color-acento-contenido.mb-5(data-aos="zoom-in")
-      .BG03.p-lg-4.p-3(titulo="Atención integral en salud" alt="Derecho a la salud")
+      .BG03.p-lg-4.p-3(titulo="Atención Integral en Salud" alt="Derecho a la salud")
         .row.justify-content-center
           .col-lg-8.order-lg-1.order-2
             p  Es el conjunto de acciones coordinadas, complementarias y efectivas para garantizar el derecho a la salud, expresadas en políticas, planes, programas, proyectos, estrategias y servicios, que se materializan en atenciones dirigidas a las personas, familias y comunidades, para la promoción de la salud, prevención de la enfermedad, diagnóstico, tratamiento, rehabilitación y cuidados paliativos.

@@ -184,7 +184,7 @@ export default {
     {
       tema: 'Rutas Integrales de Atención en Salud (RIAS)',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Generalidades y principios Rutas Integrales de Atención en Salud RIAS [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). <em>Generalidades y principios Rutas Integrales de Atención en Salud RIAS</em> [Video]. YouTube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=OQ8PuL4ft1U&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
@@ -192,7 +192,7 @@ export default {
     {
       tema: 'Rutas Integrales de Atención en Salud (RIAS)',
       referencia:
-        'Ministerio de Salud y Protección Social [Minsalud]. (2016). Manual metodológico para la elaboración e implementación de las RIAS. ',
+        'Ministerio de Salud y Protección Social [Minsalud]. (2016). <em>Manual metodológico para la elaboración e implementación de las RIAS</em>. ',
       tipo: 'Documento ',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/Manual-metodologico-rias.pdf',
@@ -200,7 +200,7 @@ export default {
     {
       tema: 'Educación para la Salud ',
       referencia:
-        'Ministerio de Salud y Protección Social [Minsalud]. (2018). Marco conceptual y metodológico para el desarrollo de la educación para la salud de las Rutas Integrales de Atención en Salud – RIAS. ',
+        'Ministerio de Salud y Protección Social [Minsalud]. (2018). <em>Marco conceptual y metodológico para el desarrollo de la educación para la salud de las Rutas Integrales de Atención en Salud - RIAS.</em> ',
       tipo: 'Documento',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/directrices-educacion-pp.pdf',
@@ -236,7 +236,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Álvarez, A. (2014). Los discursos otros. Críticas al universalismo occidental. Ediciones Desde Abajo.',
+        'Álvarez, A. (2014). <em>Los discursos otros. Críticas al universalismo occidental</em>. Ediciones Desde Abajo.',
     },
     {
       referencia:
@@ -246,13 +246,13 @@ export default {
     },
     {
       referencia:
-        'Fernández, R. (2007). Características y condiciones del aprendizaje de los adultos. Curso para Educadores de adultos - Plan Libre Asistido. ',
+        'Fernández, R. (2007). <em>Características y condiciones del aprendizaje de los adultos</em>. Curso para Educadores de adultos - Plan Libre Asistido. ',
       link:
         'https://www.academia.edu/9399632/Caracter%C3%ADsticas_y_condiciones_del_Aprendizaje_de_los_ADULTOS',
     },
     {
       referencia:
-        'Kaplún, M. (2002). Una pedagogía de la comunicación (el comunicador popular). Editorial Caminos de la Habana.',
+        'Kaplún, M. (2002). <em>Una pedagogía de la comunicación (el comunicador popular)</em>. Editorial Caminos de la Habana.',
     },
     {
       referencia:
@@ -262,30 +262,30 @@ export default {
     },
     {
       referencia:
-        'López, J. (s. f.). Vigencia de las ideas de L.S. Vigotsky. Instituto Central de Ciencias Pedagógicas. ',
+        'López, J. (s. f.). <em>Vigencia de las ideas de L.S. Vigotsky</em>. Instituto Central de Ciencias Pedagógicas. ',
       link: 'http://es.calameo.com/books/000233168fd5593a8ebd2',
     },
     {
       referencia:
-        'Mejía, M. (2016). La educación popular en tiempos de globalización. Deconstruyendo escenarios para reconstruir actores. XXIII reunión anual de la Associação Nacional de Pós-graduação e Pesquisa em Educação - ANPED. ',
+        'Mejía, M. (2016). <em>La educación popular en tiempos de globalización. Deconstruyendo escenarios para reconstruir actores</em>. XXIII reunión anual de la Associação Nacional de Pós-graduação e Pesquisa em Educação - ANPED. ',
       link:
         'http://docplayer.es/117408128-La-educacion-popular-en-tiempos-de-globalizacion-1-deconstruyendo-escenarios-para-reconstruir-actores.html',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social [Minsalud]. (2016). Política de Atención Integral en Salud “Un sistema de salud al servicio de la gente”. ',
+        'Ministerio de Salud y Protección Social [Minsalud]. (2016). <em>Política de Atención Integral en Salud “Un sistema de salud al servicio de la gente”</em>> ',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/modelo-pais-2016.pdf',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social [Minsalud]. (2018a). Gestión integral del riesgo en salud. Perspectiva desde el Aseguramiento en el contexto de la Política de Atención Integral en Salud.  ',
+        'Ministerio de Salud y Protección Social [Minsalud]. (2018a). <em>Gestión integral del riesgo en salud. Perspectiva desde el Aseguramiento en el contexto de la Política de Atención Integral en Salud.</em>',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VP/DOA/girs-prespectiva-desde-aseguramiento.pdf',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social [Minsalud]. (2018b). Marco conceptual y metodológico para el desarrollo de la educación para la salud de las Rutas Integrales de Atención en Salud - RIAS. Orientaciones pedagógicas, metodológicas y didácticas.  ',
+        'Ministerio de Salud y Protección Social [Minsalud]. (2018b). <em>Marco conceptual y metodológico para el desarrollo de la educación para la salud de las Rutas Integrales de Atención en Salud - RIAS. Orientaciones pedagógicas, metodológicas y didácticas.</em>',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/directrices-educacion-pp.pdf',
     },
@@ -321,12 +321,12 @@ export default {
     },
     {
       referencia:
-        'Torres, A. (1993). La Educación Popular: Evolución reciente y desafíos. Pedagogía y Saberes, (4), p. 13-27. ',
+        'Torres, A. (1993). La Educación Popular: Evolución reciente y desafíos. <em>Pedagogía y Saberes</em>, (4), p. 13-27. ',
       link: 'https://doi.org/10.17227/01212494.4pys13.26',
     },
     {
       referencia:
-        'Veiga-Neto, A. (1997). Michel Foucault y la educación: ¿Hay algo nuevo bajo el sol? Crítica post-estructuralista y educación, p. 9-62.',
+        'Veiga-Neto, A. (1997). Michel Foucault y la educación: ¿Hay algo nuevo bajo el sol? <em>Crítica post-estructuralista y educación</em>, p. 9-62.',
     },
   ],
   creditos: [
@@ -439,14 +439,8 @@ export default {
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Lina Marcela Pérez Manchego',
-          cargo: 'Validación de recursos educativos digitales',
-          centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
-        },
-        {
           nombre: 'Leyson Fabian Castaño Pérez',
-          cargo: 'Validación de recursos educativos digitales',
+          cargo: 'Validación y vinculación al LMS',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },

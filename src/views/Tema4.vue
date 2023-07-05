@@ -17,18 +17,18 @@
           .tarjeta.tarjeta--blanca.p-4
             SlyderA(tipo="b")
               div.px-4
-                p.text-center.mb-0 Las disposiciones son de obligatorio cumplimiento por parte de las entidades territoriales de salud, EPS - Entidades Promotoras de Salud, entidades obligadas a compensar, prestadores de servicios de salud y demás entidades responsables de las intervenciones relacionadas con la promoción y el mantenimiento de la salud.
+                p.text-center.mb-0 Las disposiciones son de #[strong obligatorio cumplimiento] por parte de las entidades territoriales de salud, EPS - Entidades Promotoras de Salud, entidades obligadas a compensar, prestadores de servicios de salud y demás entidades responsables de las intervenciones relacionadas con la promoción y el mantenimiento de la salud.
               div.px-4
-                p.text-center.mb-0 Las RPMS y RIAMP requieren ser adoptadas por los territorios y realizar la adaptación en función del ámbito de implementación (urbano, rural o rural disperso), así como responder a las características de los grupos poblacionales abordados (en esa misma lógica se debe hacer la adaptación de los servicios de salud, en los cuales no pueden constituirse barreras de acceso a las atenciones individuales establecidas).
+                p.text-center.mb-0 #[strong Las RPMS y RIAMP requieren ser adoptadas por los territorios y realizar la adaptación en función del ámbito de implementación] (urbano, rural o rural disperso), así como responder a las características de los grupos poblacionales abordados (en esa misma lógica se debe hacer la adaptación de los servicios de salud, en los cuales no pueden constituirse barreras de acceso a las atenciones individuales establecidas).
               div.px-4
-                p.text-center.mb-0 Algunas intervenciones individuales serán incorporadas de manera progresiva. Esta definición fue modificada inicialmente por la Resolución 276 de 2019, y cada año se establecerán los porcentajes de avance para estas intervenciones en la resolución que define la UPC (unidad de pago por capitación para 2022, corresponde a la Resolución 2381 de 2021).
+                p.text-center.mb-0 #[strong Algunas intervenciones individuales serán incorporadas de manera progresiva]. Esta definición fue modificada inicialmente por la Resolución 276 de 2019, y cada año se establecerán los porcentajes de avance para estas intervenciones en la resolución que define la UPC (unidad de pago por capitación para 2022, corresponde a la Resolución 2381 de 2021).
               div.px-4
-                p.text-center.mb-0 Los responsables (aseguradores con su red de prestación de servicios) deben garantizar disponibilidad, suficiencia e idoneidad del talento humano definido para la operación de las RPMS y RIAMP.
+                p.text-center.mb-0 #[strong Los responsables] (aseguradores con su red de prestación de servicios) #[strong deben garantizar disponibilidad, suficiencia e idoneidad del talento humano] definido para la operación de las RPMS y RIAMP.
               div.px-4
-                p.text-center.mb-0 El monitoreo y evaluación de las RPMS y RIAMP está relacionado con el seguimiento a la garantía de las atenciones, así como a otros resultados en salud a través de las fuentes establecidas por las Resoluciones 3374 de 2000, 202 de 2021, 2175 de 2015 y las demás fuentes de información que se establezcan o las que modifiquen las actuales fuentes.
+                p.text-center.mb-0 El #[strong monitoreo y evaluación de las RPMS y RIAMP] está relacionado con el seguimiento a la garantía de las atenciones, así como a otros resultados en salud a través de las fuentes establecidas por las Resoluciones 3374 de 2000, 202 de 2021, 2175 de 2015 y las demás #[strong fuentes de información] que se establezcan o las que modifiquen las actuales fuentes.
 
     .BG10.p-4
-      .h3.text-white.text-center.mb-0 Los objetivos de la ruta de promoción y mantenimiento de la salud son:
+      .h3.text-white.text-center.mb-0 Los objetivos de la Ruta de Promoción y Mantenimiento de la Salud son:
     
     .BGIMG05.px-md-5.px-4.pt-5.mb-5
       .row.justify-content-center
@@ -78,13 +78,13 @@
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema4/img08.png')
       .col-lg-7(data-aos="fade-left")
-        p Una de las apuestas esenciales planteadas en las RIAS y que se concreta en la RPMS y la RIAMP son los resultados en salud, como apuesta central en la que deben combinarse los esfuerzos de todos los actores. Son los cambios en las condiciones de vida, concepciones y prácticas que promueven, mantienen y recuperan la salud, a la vez que favorecen el desarrollo integral de las personas, familias y comunidades, atribuidos a las intervenciones y atenciones en el continuo de la atención integral en salud. Comprenden resultados finales o de impacto y resultados intermedios o de efecto.
+        p Una de las apuestas esenciales planteadas en las RIAS y que se concreta en la RPMS y la RIAMP son los #[strong resultados en salud], como apuesta central en la que deben combinarse los esfuerzos de todos los actores. Son los cambios en las condiciones de vida, concepciones y prácticas que promueven, mantienen y recuperan la salud, a la vez que favorecen el desarrollo integral de las personas, familias y comunidades, atribuidos a las intervenciones y atenciones en el continuo de la atención integral en salud. Comprenden resultados finales o de impacto y resultados intermedios o de efecto.
         .BG02.mb-4
           .row.justify-content-center.align-items-center
             .col-lg-1.col-2.mb-lg-0.mb-4
               img(src='@/assets/curso/temas/img05.svg')
             .col.p-4
-              p.mb-0 Los resultados de impacto requieren de la acción sectorial e intersectorial que incide en los determinantes sociales y están relacionados con el logro de los resultados intermedios. Los indicadores de impacto se relacionan de manera especial con compromisos de los Objetivos de Desarrollo Sostenible y tienen una fuerte relación con las posibilidades de desarrollo de un Estado.
+              p.mb-0 Los #[strong resultados de impacto] requieren de la acción sectorial e intersectorial que incide en los determinantes sociales y están relacionados con el logro de los resultados intermedios. Los indicadores de impacto se relacionan de manera especial con compromisos de los Objetivos de Desarrollo Sostenible y tienen una fuerte relación con las posibilidades de desarrollo de un Estado.
         p.mb-0 Para la RPMS, se han definido los siguientes resultados de impacto:
 
     .row.justify-content-center.mb-5
@@ -119,7 +119,7 @@
               tr
                 td(style="background-color: #F0F3FA" colspan="6").text-center Personas sin mortalidad evitable.
 
-    p.mb-5 Los resultados intermedios son los cambios esperados en las personas en cada momento del curso de vida, en las familias y comunidades, atribuibles a la garantía de una o varias atenciones contempladas en las RIAS y que pueden ser logrados en un corto o mediano plazo. Resultados intermedios de la RPMS:
+    p.mb-5 Los #[strong resultados intermedios] son los cambios esperados en las personas en cada momento del curso de vida, en las familias y comunidades, atribuibles a la garantía de una o varias atenciones contempladas en las RIAS y que pueden ser logrados en un corto o mediano plazo. Resultados intermedios de la RPMS:
 
     .BGIMG08.px-md-5.px-4.mb-5
       .row.justify-content-center.mb-4

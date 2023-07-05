@@ -42,7 +42,7 @@
           figure(data-aos="zoom-in")
             img(src='@/assets/curso/tema5/img03.svg' alt="Interrogantes en el proceso pedagógico")
     
-    p.mb-5 Esta falta de claridad pedagógica hace que se confunda la Educación para la Salud (EPS) con la información o el #[em marketing] en salud, lo que se ve reflejado, por ejemplo:
+    p.mb-5 Esta falta de claridad pedagógica hace que se confunda la Educación para la Salud (EpS) con la información o el #[em marketing] en salud, lo que se ve reflejado, por ejemplo:
 
     .BG05.p-4.mb-5(data-aos="flip-up")
       .row.justify-content-center.align-items-center
@@ -60,8 +60,8 @@
               
     .row.justify-content-center.align-items-end.mb-5
       .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
-        p En este sentido, es menester decir que la práctica educativa no es proteccionista, ni unidireccional, ni tampoco pretende controlar a los sujetos, sino servir de mediación con los sujetos y las comunidades para lograr su acción protagónica en la construcción de su salud. Adicionalmente, hay debilidades en la formación del talento humano en salud para adelantar esta clase de procesos: se desconoce el avance que a lo largo de la historia ha tenido la EPS, se desconoce el acervo teórico que existe en las ciencias de la educación y cómo podría aplicarse.
-        p.mb-0 Todo lo anterior, lleva a la imperiosa necesidad de que los trabajadores de la salud hagan conciencia sobre el propio modelo pedagógico con el que actúan y perpetúan ciertas prácticas, basadas, por una parte, en el supuesto poder superior del conocimiento científico y, por otra, en ideas homogeizantes sobre la salud que no consideran los determinantes sociales (y ambientales) de la salud como aspectos trascendentales que condicionan y afectan las posibilidades de que los sujetos construyan una vida saludable, digna de ser vivida.
+        p En este sentido, es menester decir que la práctica educativa no es proteccionista, ni unidireccional, ni tampoco pretende controlar a los sujetos, sino servir de mediación con los sujetos y las comunidades para lograr su acción protagónica en la construcción de su salud. Adicionalmente, hay debilidades en la formación del talento humano en salud para adelantar esta clase de procesos: se desconoce el avance que a lo largo de la historia ha tenido la EpS, se desconoce el acervo teórico que existe en las ciencias de la educación y cómo podría aplicarse.
+        p.mb-0 Todo lo anterior, lleva a la imperiosa necesidad de que los trabajadores de la salud hagan conciencia sobre el propio modelo pedagógico con el que actúan y perpetúan ciertas prácticas, basadas, por una parte, en el supuesto poder superior del conocimiento científico y, por otra, en ideas Homogeneizantes sobre la salud que no consideran los determinantes sociales (y ambientales) de la salud como aspectos trascendentales que condicionan y afectan las posibilidades de que los sujetos construyan una vida saludable, digna de ser vivida.
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema5/img05.png')
 
@@ -70,7 +70,7 @@
         .col-lg-1.col-2.pe-2.py-1.mb-lg-0.mb-4
           img(src='@/assets/curso/temas/img05.svg')
         .col.p-4 
-          p.mb-0 Para ello, se ha diseñado el curso de Educación para la Salud en el marco de las RIAS,  en el cual encontrará las orientaciones pedagógicas, metodológicas y didácticas que servirán de herramienta para los equipos técnicos de salud (tanto del Plan de Beneficios de Salud con cargo a la UPC como los que sean contratados mediante el Plan de Intervenciones Colectivas o las Direcciones Territoriales de Salud, que adelantan las respectivas acciones de Gestión de la Salud Pública), de modo que pueda tener las claridades suficientes que le permitan desarrollar los procesos pedagógicos para la salud.
+          p.mb-0 Para ello, se ha diseñado el curso de #[strong Educación para la Salud en el marco de las RIAS],  en el cual encontrará las orientaciones pedagógicas, metodológicas y didácticas que servirán de herramienta para los equipos técnicos de salud (tanto del Plan de Beneficios de Salud con cargo a la UPC como los que sean contratados mediante el Plan de Intervenciones Colectivas o las Direcciones Territoriales de Salud, que adelantan las respectivas acciones de Gestión de la Salud Pública), de modo que pueda tener las claridades suficientes que le permitan desarrollar los procesos pedagógicos para la salud.
 
     separador
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -80,7 +80,7 @@
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema5/img06.png')
       .col-lg-7(data-aos="fade-left")
-        p.mb-0 La educación para la salud ha tenido diversas intencionalidades de acuerdo con las características del desarrollo histórico de la humanidad. En nuestro país, por ejemplo, a principios del siglo XX, cuando la preocupación estaba centrada en las enfermedades epidémicas y endémicas, el problema de morbimortalidad se convirtió en la mayor preocupación de los gobiernos, la EPS se centró en el tema de la higiene, la educación sanitaria, la profilaxis, el disciplinamiento de los cuerpos (como restauración fisiológica), de la mano de la medicalización de la sociedad y la escolarización de los saberes sanitarios.
+        p.mb-0 La educación para la salud ha tenido diversas intencionalidades de acuerdo con las características del desarrollo histórico de la humanidad. En nuestro país, por ejemplo, a principios del siglo XX, cuando la preocupación estaba centrada en las enfermedades epidémicas y endémicas, el problema de morbimortalidad se convirtió en la mayor preocupación de los gobiernos, la EpS se centró en el tema de la higiene, la educación sanitaria, la profilaxis, el disciplinamiento de los cuerpos (como restauración fisiológica), de la mano de la medicalización de la sociedad y la escolarización de los saberes sanitarios.
 
     .row.justify-content-center.mb-5
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
@@ -93,7 +93,7 @@
                 .h4.mb-0 Siglo XX
               .col-lg-2.col-3.img-01
                 img(src='@/assets/curso/tema5/img09.svg')
-            p.mb-0 Tomó fuerza el concepto de salud pública, orientada hacia el perfeccionamiento de la salud individual y colectiva, las acciones educativas se orientaron a los espacios donde hubiera mayor concentración de personas (escuelas, lugares de trabajo, comunidades barriales, etc.), para enseñarle a la gente cómo manejar problemas de desnutrición, enfermedades gastrointestinales y enfermedades Inmunoprevenibles, entre otros aspectos.
+            p.mb-0 Tomó fuerza el concepto de salud pública, orientada hacia el perfeccionamiento de la salud individual y colectiva, las acciones educativas se orientaron a los espacios donde hubiera mayor concentración de personas (escuelas, lugares de trabajo, comunidades barriales, etc.), para enseñarle a la gente cómo manejar problemas de desnutrición, enfermedades gastrointestinales y enfermedades inmunoprevenibles, entre otros aspectos.
       .col-lg-6.col-10(data-aos="fade-left")
         .BG11.hg-03
           .figure
@@ -111,7 +111,7 @@
         .col-lg-1.col-2.pe-2.py-1.mb-lg-0.mb-4
           img(src='@/assets/curso/temas/img05.svg')
         .col.p-4 
-          p.mb-0 En este contexto, la EPS se centra en la promoción de ciertos comportamientos y el desarrollo de habilidades y capacidades de los individuos para gestionar su salud, hasta naturalizar la idea del querer ser saludable, reduciendo así los riesgos para la salud; lo cual, a su vez, tendría una incidencia en las condiciones sociales, económicas y ambientales del territorio.
+          p.mb-0 En este contexto, la EpS se centra en la promoción de ciertos comportamientos y el desarrollo de habilidades y capacidades de los individuos para gestionar su salud, hasta naturalizar la idea del querer ser saludable, reduciendo así los riesgos para la salud; lo cual, a su vez, tendría una incidencia en las condiciones sociales, económicas y ambientales del territorio.
 
     .h5.text-center.mb-5 Las anteriores posturas se inscriben en dos perspectivas epistemológicas con relación a la educación para la salud que se presentan en la siguiente infografía:
 
@@ -154,7 +154,7 @@
             .col-lg-2.col-3.mb-lg-0.mb-4
               img(src='@/assets/curso/temas/img05.svg')
             .col.p-4
-              p.mb-0 Confiriendo poder sobre los demás a quienes ostentaran dichos discursos y normalizando aquellos comportamientos deseables que se van instituyendo como “normales” y homogeneizantes
+              p.mb-0 Confiriendo poder sobre los demás a quienes ostentaran dichos discursos y normalizando aquellos comportamientos deseables que se van instituyendo como “normales” y homogeneizantes.
 
       .col-lg-5
         .BGR11S.px-5.py-3.mb-5(data-aos="fade-left")
@@ -188,7 +188,7 @@
             .col-lg-2.col-3.mb-lg-0.mb-4
               img(src='@/assets/curso/temas/img06.svg')
             .col.p-4
-              p.mb-0 Reconociendo las ideas y culturas no hegemónicas, como otros modos de comprender y construir el mundo con relaciones de poder más horizontales. relevan el ejercicio del poder individual y de la resistencia en la vida cotidiana.
+              p.mb-0 Reconociendo las ideas y culturas no hegemónicas, como otros modos de comprender y construir el mundo con relaciones de poder más horizontales. Relevan el ejercicio del poder individual y de la resistencia en la vida cotidiana.
     
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="flip-up")
@@ -221,7 +221,7 @@
       .col-auto.BGRS08
         .h4.mb-0 Educación para la Salud como sinónimo de Información en Salud
     
-    p.mb-5 La Educación para la Salud (EPS) es vista desde un punto de vista informativo prescriptivo, está ligada al nacimiento de la comunicación para el desarrollo, la cual consistía:
+    p.mb-5 La Educación para la Salud (EpS) es vista desde un punto de vista informativo prescriptivo, está ligada al nacimiento de la comunicación para el desarrollo, la cual consistía:
     .h4.text-center.mb-5 XX: nace al final de la Segunda Guerra Mundial
 
     .row.justify-content-center.mb-4
@@ -230,7 +230,7 @@
         .row.justify-content-center.mb-4
           .col-lg-4.col-6
             img(src='@/assets/curso/tema5/img12.svg')
-        p.text-center.mb-0 El concepto inicia con el paradigma desarrollista económico en los 40, 50 y 60, donde el desarrollo se ve como el crecimiento de la economía, de la producción y del comercio
+        p.text-center.mb-0 El concepto inicia con el paradigma desarrollista económico en los 40, 50 y 60, donde el desarrollo se ve como el crecimiento de la economía, de la producción y del comercio.
       .col-lg-4.col-md-8.BG03.p-4.mb-lg-0.mb-4(style="box-shadow: 2px 2px 10px #DEDEDE" data-aos="flip-up")
         .h3.mb-2(style="color: #D7DADD") 02
         .row.justify-content-center.mb-4
@@ -358,7 +358,7 @@
         .col-lg-1.col-2.pe-2.py-3.mb-lg-0.mb-4
           img(src='@/assets/curso/temas/img05.svg')
         .col.p-4 
-          p.mb-0 La educación para la salud es crítica, emancipadora, participativa, atravesada por técnicas pedagógicas y discursivas de educación popular, investigación participativa, organización popular.
+          p.mb-0 La Educación para la Salud es crítica, emancipadora, participativa, atravesada por técnicas pedagógicas y discursivas de educación popular, investigación participativa, organización popular.
 
     .BGIMG01.mb-5(data-aos="flip-up")
       .row.justify-content-start.align-items-center
@@ -367,7 +367,7 @@
               .col-2.ps-5.pe-4.py-4
                 img(src='@/assets/curso/temas/img01.svg')
               .col
-                .h5 La educación para la salud, entonces, se adhiere al Paradigma Alternativo de la educación, cuyo máximo exponente es Paulo Freire, donde la educación se orienta al empoderamiento y la autodeterminación de las comunidades para la definición de su propio modelo de desarrollo, siendo decisores y participantes activo del proceso.
+                .h5 La Educación para la Salud, entonces, se adhiere al Paradigma Alternativo de la educación, cuyo máximo exponente es Paulo Freire, donde la educación se orienta al empoderamiento y la autodeterminación de las comunidades para la definición de su propio modelo de desarrollo, siendo decisores y participantes activos del proceso.
           .col-5.d-lg-none.d-flex
           .col-lg-3.col-6.px-lg-2.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema5/img01.png' alt="Paulo Freire")
@@ -561,17 +561,17 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Tabla 4
-          span ndamentos pedagógicos que sustentan la EPS en el marco de las RIAS
+          span Fundamentos pedagógicos que sustentan la EpS en el marco de las RIAS
         .tabla-b.color-acento-contenido(data-aos="zoom-in")
           table
             caption Nota. <a style="font-weight: 400">Ministerio de Salud y Protección Social (2018).</a>
             thead(style="border-top: 5px solid #6F88DA")
               tr
-                th(style="background-color: #B3C1EF;" colspan="3").text-center Fundamentos pedagógicos que sustentan la EPS en el marco de las RIAS
+                th(style="background-color: #B3C1EF;" colspan="3").text-center Fundamentos pedagógicos que sustentan la EpS en el marco de las RIAS
               tr
                 td(style="border: 2px solid #E8E8E8; background-color: #FFF; width: 10%;") 1
                 td(style="border: 2px solid #E8E8E8; background-color: #FFF; width: 40%;") Enfoque de Educación para la Salud
-                td(style="border: 2px solid #E8E8E8; background-color: #FFF; width: 50%;") 1º De segunda generación: EPS comportamental.<br>2º De tercera generación: EPS participativa y emancipatoria.
+                td(style="border: 2px solid #E8E8E8; background-color: #FFF; width: 50%;") 1º De segunda generación: EpS comportamental.<br>2º De tercera generación: EpS participativa y emancipatoria.
             tbody
               tr
                 td(style="border: 2px solid #E8E8E8; background-color: #F0F3FA;") 2
@@ -598,7 +598,7 @@
                 td(style="border: 2px solid #E8E8E8; background-color: #FFF;") Técnicas educativas
                 td(style="border: 2px solid #E8E8E8; background-color: #FFF;") De educación popular, constructivista, de desarrollo de pensamiento crítico, de aprendizaje significativo
 
-    p.mb-5 La perspectiva pedagógica desde la cual se realizarán las acciones de EPS en el marco de las RIAS se basa en:
+    p.mb-5 La perspectiva pedagógica desde la cual se realizarán las acciones de EpS en el marco de las RIAS se basa en:
 
     .row.justify-content-start.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.px-0
@@ -613,12 +613,12 @@
         p.mb-0 El constructivismo parte del hecho de que el conocimiento es una construcción del ser humano y no una copia de la realidad. El aprendizaje es esencialmente activo y, en la medida en que una persona aprende algo nuevo, lo incorpora a sus experiencias previas y a sus propias estructuras mentales.  En este contexto, el constructivismo social está basado en la premisa de que los nuevos conocimientos se forman a partir de los propios esquemas de la persona (producto de su realidad) y de su comparación con los esquemas de los demás individuos que lo rodean. El paso de un estadio a otro sucede como producto de la interacción social (dentro de un contexto cultural particular) e implica la reorganización de esquemas y estructuras mentales.  En este camino, las personas se apropian de los conocimientos que han sido construidos por la sociedad y adquieren y complejizan sus propios procesos psicológicos superiores (lenguaje, razonamiento, etc.). Así, el proceso interpersonal queda transformado en otro intrapersonal.
 
     .BGIMG01.mb-5(data-aos="flip-up")
-      .row.justify-content-start.align-items-center
-          .col-lg-7.order-lg-1.order-2
+      .row.justify-content-start.align-items-end
+          .col-xxl-7.col-lg-8.order-lg-1.order-2
             .row.justify-content-start.align-items-center
               .col-2.ps-5.pe-4.py-4
                 img(src='@/assets/curso/temas/img01.svg')
-              .col
+              .col.p-4
                 .h5.mb-0 Vygotsky considera que el aprendizaje es uno de los mecanismos fundamentales de desarrollo y, por tanto, la enseñanza debe adelantarse a este para jalonarlo.  López (s.f.)  considera que el aprendizaje está determinado por el medio en el que se desenvuelve el sujeto y, desde este punto de vista, la interacción social –actividad colectiva- es el motor del desarrollo. Por lo anterior, hay que conocer:
           .col-5.d-lg-none.d-flex
           .col-lg-2.col-4.px-lg-2.order-lg-2.order-1.mb-lg-0.mb-4
@@ -760,15 +760,15 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
-        p Para el caso del presente documento, el modelo que orientará la EPS en el marco de las RIAS es el interestructurante dialogante, de forma que se aporte al desarrollo de sujetos críticos, con instrumentos para pensar, para valorar y para actuar de forma reflexiva, reconociendo el saber de los otros y participando en construcciones conjuntas de conocimiento.
+        p Para el caso del presente documento, el modelo que orientará la EpS en el marco de las RIAS es el interestructurante dialogante, de forma que se aporte al desarrollo de sujetos críticos, con instrumentos para pensar, para valorar y para actuar de forma reflexiva, reconociendo el saber de los otros y participando en construcciones conjuntas de conocimiento.
         .BG02.mb-5
           .row.justify-content-center.align-items-center
             .col-lg-1.col-2.pe-2.py-3.mb-lg-0.mb-4
               img(src='@/assets/curso/temas/img05.svg')
             .col.p-4 
-              p.mb-0 Para este modelo y postura en políticas nacionales de Educación para la Salud en el marco de las RIAS, el diálogo de saberes es el fundamento que permite una EPS basada en los sujetos y orientada a la autonomía de estos.
+              p.mb-0 Para este modelo y postura en políticas nacionales de Educación para la Salud en el marco de las RIAS, el diálogo de saberes es el fundamento que permite una EpS basada en los sujetos y orientada a la autonomía de estos.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema5/img40.png' alt="EPS basada en los sujetos")
+        img(src='@/assets/curso/tema5/img40.png' alt="EpS basada en los sujetos")
     
     separador
     #t_5_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -784,9 +784,9 @@
             .col-2.ps-5.pe-4
               img(src='@/assets/curso/temas/img01.svg')
             .col
-              p.mb-0 El dialogo de saberes se entiende como una interacción entre diversos conocimientos, donde se reconoce que tanto los sectores populares como el talento humano formado en espacios académicos tiene saberes que no solo se diferencian por los campos de contenidos que cada uno de ellos tiene, sino porque han sido construidos desde lógicas culturales y prácticas históricas diferentes.
+              p.mb-0 El diálogo de saberes se entiende como una interacción entre diversos conocimientos, donde se reconoce que tanto los sectores populares como el talento humano formado en espacios académicos tiene saberes que no solo se diferencian por los campos de contenidos que cada uno de ellos tiene, sino porque han sido construidos desde lógicas culturales y prácticas históricas diferentes.
 
-    p.mb-5 Lo que hay que reconocer en el diálogo con los participantes de los procesos de EPS es que existen diversas y válidas lógicas culturales y, por tanto, lo que corresponde es comprender la lógica interna de los discursos sobre los cuales los sujetos basan sus actuaciones (para este caso, su actuar en relación con la salud y la vida). Una vez comprendido el discurso del otro, el ejercicio pedagógico se centrará en ampliar el universo de sentido de los sujetos que participan del proceso educativo (Torres, 1993).
+    p.mb-5 Lo que hay que reconocer en el diálogo con los participantes de los procesos de EpS es que existen diversas y válidas lógicas culturales y, por tanto, lo que corresponde es comprender la lógica interna de los discursos sobre los cuales los sujetos basan sus actuaciones (para este caso, su actuar en relación con la salud y la vida). Una vez comprendido el discurso del otro, el ejercicio pedagógico se centrará en ampliar el universo de sentido de los sujetos que participan del proceso educativo (Torres, 1993).
 
     .row.justify-content-center.align-items-center
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
@@ -821,7 +821,7 @@
         .col-lg-1.col-2.pe-2.py-1.mb-lg-0.mb-4
           img(src='@/assets/curso/temas/img05.svg')
         .col.p-4
-          p.mb-0 La educación para la salud puede brindarse bajo la forma de educación individual y grupal (como parte de las atenciones y procedimientos con cargo a la UPC, es decir, bajo la responsabilidad de la EPS o asegurador), así como educación colectiva, es decir, intervención colectiva (bajo responsabilidad de la entidad territorial de salud y la ESE como operador). En el siguiente recurso, se mencionan algunas orientaciones para tener en cuenta: 
+          p.mb-0 La educación para la salud puede brindarse bajo la forma de educación individual y grupal (como parte de las atenciones y procedimientos con cargo a la UPC, es decir, bajo la responsabilidad de la EpS o asegurador), así como educación colectiva, es decir, intervención colectiva (bajo responsabilidad de la entidad territorial de salud y la ESE como operador). En el siguiente recurso, se mencionan algunas orientaciones para tener en cuenta: 
 
     .row.justify-content-start.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.px-0
@@ -832,9 +832,9 @@
     p.mb-5 Las sesiones educativas deben ser implementadas por uno o varios profesionales, técnicos y tecnólogos de las ciencias de la salud, salud ambiental y de las ciencias sociales y humanas, con el apoyo de auxiliares del equipo de salud con las competencias para desarrollar metodológica, pedagógica y técnicamente el proceso (ideal el apoyo de profesional en pedagogía, psicopedagogía o psicología educativa). Para el caso de comunidades indígenas, podrán ser desarrolladas por el personal de salud propio de dichos pueblos.
 
     .BGM07.px-md-5.px-4.mb-5
-      .row.justify-content-center
+      .row.justify-content-center.mb-5
         .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="fade-right")
-          .BG10.hg-09
+          .BG10.hg-09.mb-4
             .figure
               img(src='@/assets/curso/tema5/img44.jpg' alt="Persona sola")
             .px-4.pb-4
@@ -844,6 +844,8 @@
                 .col-lg-2.col-3.img-01
                   img(src='@/assets/curso/tema5/img09.svg')
               p.mb-0 Dirigida a un sujeto en un momento de curso de vida o a una familia.
+          .BGR03A.hg-11.p-4
+            p.mb-0 A cargo de EAPB - asegurador con la red de prestación de servicios.
         .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="flip-up")
           .BG11.hg-09
             .figure
@@ -857,7 +859,7 @@
               p Dirigida a personas que comparten determinado momento de curso de vida.
               p.mb-0 O a grupos de personas o familias que comparten alguna condición o situación.
         .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="fade-left")
-          .BG10.hg-09
+          .BG10.hg-09.mb-4
             .figure
               img(src='@/assets/curso/tema5/img46.jpg' alt="Colectivo")
             .px-4.pb-4
@@ -867,7 +869,8 @@
                 .col-lg-2.col-3.img-01
                   img(src='@/assets/curso/tema5/img09.svg')
               p.mb-0 Dirigido a colectivos que comparten una condición o situación, personas que viven o se desarrollan en determinado entorno (algunos comparten más el mismo momento de curso de vida). 
-
+          .BGR03A.hg-11.p-4
+            p.mb-0 A cargo de la DTS con la ESE  en el marco del plan de salud de intervenciones colectivas.
       .row.justify-content-start.align-items-center.mb-4(data-aos="fade-right")
         .col-auto.px-0
           img(src='@/assets/curso/temas/img04.svg' style="max-width: 40px;")
@@ -949,10 +952,10 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Tabla 5
-          span Ministerio de Salud y Protección Social (2018)
+          span Objetivos de la educación para el momento de curso de vida
         .tabla-a.color-acento-contenido(data-aos="zoom-in")
           table
-            caption Nota. <a style="font-weight: 400">Tomado de Kaplún (2002).</a>
+            caption Nota. <a style="font-weight: 400">Ministerio de Salud y Protección Social (2018).</a>
             thead
               tr
                 th(style="background-color: #B3C1EF; width: 25%;") Momento de curso de vida
