@@ -737,7 +737,7 @@
 
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/CSrntNl6MVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p Se considera que los que aprenden son personas activas, capaces de investigar, y que el educador deberá generar escenarios pedagógicos basados en la pregunta, que les permitan comprender la realidad, crear y decir sus propias palabras.
     p.mb-5 En suma, se trata de formar para la acción y la transformación, rescatando el papel del mediador (pedagogo) como aquel acompañante capaz de diseñar opciones, delinear caminos, proponer conflictos cognitivos, valorativos y orientar alternativas de solución. Desarrollar un proceso de educación desde la perspectiva crítica-educación popular implica:
