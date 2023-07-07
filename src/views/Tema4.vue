@@ -34,7 +34,7 @@
       .row.justify-content-center
         .col-lg-10
           figure(data-aos="zoom-in")
-            img(src='@/assets/curso/tema4/img02.svg' alt="Ruta de promoción y mantenimiento de la salud")
+            img(src='@/assets/curso/tema4/img02.svg' alt="La imagen muestra los 5 objetivos de  la Ruta de Promoción y Mantenimiento de la Salud: Identificar y desarrollar capacidades, habilidades y prácticas en las personas, las familias y las comunidades para el cuidado y mantenimiento de la salud. Atender oportuna e integralmente a las personas que presentan un evento en salud. Identificar oportunamente vulnerabilidades, factores de riesgo, riesgos acumulados y alteraciones que emergen en cada momento vital que ameriten acciones en salud. Afectar los entornos para que sean protectores y potenciadores de la salud y el desarrollo. Realizar el seguimiento de la salud y el desarrollo integral de las personas en cada uno de los momentos del curso de vida.")
 
     .BGIMG01.mb-5(data-aos="flip-up")
       .row.justify-content-start.align-items-center
@@ -92,7 +92,7 @@
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Tabla 1
           span Resultados de impacto de la RPMS
-        .tabla-a.color-acento-contenido(data-aos="zoom-in")
+        .tabla-a.color-acento-contenido(data-aos="zoom-in" alt="Muestra los resultados de impacto de la RPMS, com primera infancia, infancia, adolescencia, juventud, adultez y vejez.")
           table
             caption Nota. <a style="font-weight: 400">Resolución 3280 de 2018.</a>
             thead

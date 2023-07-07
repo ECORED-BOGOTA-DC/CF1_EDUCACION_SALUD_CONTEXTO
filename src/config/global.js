@@ -192,8 +192,8 @@ export default {
     {
       tema: 'Rutas Integrales de Atención en Salud (RIAS)',
       referencia:
-        'Ministerio de Salud y Protección Social [Minsalud]. (2016). <em>Manual metodológico para la elaboración e implementación de las RIAS</em>. ',
-      tipo: 'Documento ',
+        'Ministerio de Salud y Protección Social [Minsalud]. (2016). <em>Manual metodológico para la elaboración e implementación de las RIAS.</em>',
+      tipo: 'Documento',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/Manual-metodologico-rias.pdf',
     },
@@ -273,7 +273,7 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social [Minsalud]. (2016). <em>Política de Atención Integral en Salud “Un sistema de salud al servicio de la gente”</em>> ',
+        'Ministerio de Salud y Protección Social [Minsalud]. (2016). <em>Política de Atención Integral en Salud “Un sistema de salud al servicio de la gente”</em>',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/modelo-pais-2016.pdf',
     },

@@ -25,7 +25,7 @@
           h5 Figura 1
           span Objetivos Rutas Integrales de Atención en Salud
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema3/img02.svg' alt="Rutas Integrales de Atención en Salud")
+          img(src='@/assets/curso/tema3/img02.svg' alt="Muestra los objetivos rutas integrales de atención en salud, indicando que hay ganancias en salud, carga de enfermedad para garantizar condiciones necesarias para la atención integral en salud.")
           figcaption Nota. <a style="font-weight: 400">Ministerio de Salud y Protección Social (2016).</a>
 
     p.mb-5 A continuación, se presentan los postulados orientadores de las Rutas Integrales de Atención en Salud (RIAS):
@@ -80,7 +80,7 @@
           h5 Figura 2
           span Grupo curso de vida
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema3/img04.svg' alt="Momentos del curso de la vida")
+          img(src='@/assets/curso/tema3/img04.svg' alt="Muestra, los entornos, destinatarios y momentos de curso de vida, teniendo en cuenta, lo institucional, hogar, educativo, laboral, comunitario, comunidad, familia y persona.")
 
     .BGIMG01.p-4.mb-5(data-aos="flip-up")
       .row.justify-content-start.align-items-center
@@ -135,7 +135,7 @@
           h5 Figura 3
           span Gestión de la salud pública
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema3/img08.svg' alt="Gestión de la salud pública")
+          img(src='@/assets/curso/tema3/img08.svg' alt="Muestra las gestiones de la salud pública, intervenciones colectivas, prestación de servicios individuales, aseguramiento, vigilancia en salud pública, inspección vigilancia y control, teniendo en cuenta los grupos poblacionales y los resultados en salud.")
           figcaption Nota. <a style="font-weight: 400">Ministerio de Salud y Protección Social (2018).</a>
     
     separador

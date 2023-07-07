@@ -40,7 +40,7 @@
             h5 Figura 4
             span Interrogantes en el proceso pedagógico
           figure(data-aos="zoom-in")
-            img(src='@/assets/curso/tema5/img03.svg' alt="Interrogantes en el proceso pedagógico")
+            img(src='@/assets/curso/tema5/img03.svg' alt="Muestra tres interrogantes: 01 ¿Cual es el tipo de humanos que se pretende formar?. 02 ¿Qué se quiere enseñar?. 03 ¿Para qué y cómo hacerlo?")
     
     p.mb-5 Esta falta de claridad pedagógica hace que se confunda la Educación para la Salud (EpS) con la información o el #[em marketing] en salud, lo que se ve reflejado, por ejemplo:
 
@@ -61,7 +61,7 @@
     .row.justify-content-center.align-items-end.mb-5
       .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
         p En este sentido, es menester decir que la práctica educativa no es proteccionista, ni unidireccional, ni tampoco pretende controlar a los sujetos, sino servir de mediación con los sujetos y las comunidades para lograr su acción protagónica en la construcción de su salud. Adicionalmente, hay debilidades en la formación del talento humano en salud para adelantar esta clase de procesos: se desconoce el avance que a lo largo de la historia ha tenido la EpS, se desconoce el acervo teórico que existe en las ciencias de la educación y cómo podría aplicarse.
-        p.mb-0 Todo lo anterior, lleva a la imperiosa necesidad de que los trabajadores de la salud hagan conciencia sobre el propio modelo pedagógico con el que actúan y perpetúan ciertas prácticas, basadas, por una parte, en el supuesto poder superior del conocimiento científico y, por otra, en ideas Homogeneizantes sobre la salud que no consideran los determinantes sociales (y ambientales) de la salud como aspectos trascendentales que condicionan y afectan las posibilidades de que los sujetos construyan una vida saludable, digna de ser vivida.
+        p.mb-0 Todo lo anterior, lleva a la imperiosa necesidad de que los trabajadores de la salud hagan conciencia sobre el propio modelo pedagógico con el que actúan y perpetúan ciertas prácticas, basadas, por una parte, en el supuesto poder superior del conocimiento científico y, por otra, en ideas homogeneizantes sobre la salud que no consideran los determinantes sociales (y ambientales) de la salud como aspectos trascendentales que condicionan y afectan las posibilidades de que los sujetos construyan una vida saludable, digna de ser vivida.
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema5/img05.png')
 
@@ -376,7 +376,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10
-        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right" alt="Muestra Tres tipos de educación, desde el modelo, tipo de educación y énfasis.")
           h5 Tabla 2
           span Tres tipos de educación
         .tabla-a.color-acento-contenido(data-aos="zoom-in")
@@ -428,7 +428,7 @@
     
     .row.justify-content-center.mb-5
       .col
-        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right" alt="Muestra, Modelos pedagógicos y de comunicación: indicadores/modelos, énfasis en los contenidos, énfasis en los resultados, énfasis en los procesos.")
           h5 Tabla 3
           span Modelos pedagógicos y de comunicación
         .tabla-a.color-acento-contenido(data-aos="zoom-in")
@@ -559,7 +559,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10
-        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right" alt="Muestra, Fundamentos pedagógicos que sustentan la EpS en el marco de las RIAS, número, fundamentos pedagógicos y sustentación.")
           h5 Tabla 4
           span Fundamentos pedagógicos que sustentan la EpS en el marco de las RIAS
         .tabla-b.color-acento-contenido(data-aos="zoom-in")
@@ -748,7 +748,7 @@
           h5 Figura 6
           span Educación desde la perspectiva crítica-educación
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema5/img38.svg' alt="Perspectiva crítica-educación")
+          img(src='@/assets/curso/tema5/img38.svg' alt="Muestra el reconocimiento de saberes previos: a partir de saberes previos significa no solo reconocer y valorar los saberes del otro, sino exige una responsabilidad ética. aprendemos desde o que sabemos, pero también contra a pesar de ellos.  Aprendizaje colectivo, dialogo de saberes y problematización de la realidad.")
           figcaption Nota. <a style="font-weight: 400">Tomada de Ministerio de Salud y Protección Social (2018).</a>
 
     .BG05.p-4.mb-5
@@ -813,7 +813,7 @@
           h5 Figura 7
           span Educación para la Salud
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema5/img43.svg' alt="Educación para la Salud")
+          img(src='@/assets/curso/tema5/img43.svg' alt="Muestra Educación y comunicación para la salud, teniendo en cuenta la Ruta de promoción de Mantenimiento de la salud (RPMS), que se desarrolla en cuidar, pensar críticamente y agenciar que es transformar. RIAS de riesgo de evento, tiene gestión de riesgo, comprender, sentir, actuar.")
           figcaption Nota. <a style="font-weight: 400">Tomado de Ministerio de Salud y Protección Social (2018).</a>
     
     .BG02.mb-4(data-aos="flip-up")
@@ -950,7 +950,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10
-        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right" alt="Muestra, Objetivos de la educación para el momento de curso de vida, momento de curso de vuda, objetivos de la educación para la salud, resultados en salud- educación en salud por momento de curso de vida.")
           h5 Tabla 5
           span Objetivos de la educación para el momento de curso de vida
         .tabla-a.color-acento-contenido(data-aos="zoom-in")
