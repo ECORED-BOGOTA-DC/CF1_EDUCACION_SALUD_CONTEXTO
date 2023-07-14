@@ -166,7 +166,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA01.pdf',
+        download: 'downloads/Guia_de_accesibilidad_para_documentos.pdf',
       },
       {
         icono: 'fas fa-download',

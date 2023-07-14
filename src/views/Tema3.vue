@@ -11,7 +11,7 @@
       .row.justify-content-end.align-items-end
         .col-lg-1.d-lg-none.d-flex
         .col-lg-3.col-6.mb-lg-0.pt-lg-0.pt-4.pe-lg-0.pe-5.mb-4
-          img(src='@/assets/curso/tema3/img01.png' alt="Ordenar la gestión de la atención integral en salud")
+          img(src='@/assets/curso/tema3/img01.png'  alt="Imagen decorativa")
         .col-lg-8.p-4
           .row.justify-content-start
             .col-2.ps-5.pe-4
@@ -32,7 +32,7 @@
 
     .row.justify-content-center.mb-4
       .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img03.png' alt="Rutas Integrales de Atención en Salud")
+        img(src='@/assets/curso/tema3/img03.png'  alt="Imagen decorativa")
       .col-lg-9(data-aos="fade-left")
         ul.lista-ul--color.lista-ul--separador.mb-0
           li(style="margin-bottom: 2px")
@@ -91,7 +91,7 @@
             .col
               p.mb-0 Para el caso de las atenciones individuales, el ordenador que prevalece y ordena son las personas según su momento de curso de vida (primera infancia, infancia, adolescencia, juventud, adultez, vejez).  Las intervenciones colectivas deben articular el abordaje en los entornos de tal manera que se brinden atenciones integrales e integradas, que respondan a las características de los sujetos que se encuentran en los mismos, manteniendo presente el momento de curso de vida de las personas.
         .col-lg-5.col-10.px-4.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema3/img05.svg' alt="Curso de vida")
+          img(src='@/assets/curso/tema3/img05.svg'  alt="Imagen decorativa")
 
     separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -105,7 +105,7 @@
           ImagenInfograficaB.color-secundario
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/tema3/img06.svg' alt="Tipos de RIAS")
+                img(src='@/assets/curso/tema3/img06.svg'  alt="Imagen decorativa")
             div(x="29.35%" y="33.4%" tooltip="Ruta Integral de Atención en Salud para la Promoción y Mantenimiento de la Salud" numero="+")
               .h5 Ruta Integral de Atención en Salud para la Promoción y Mantenimiento de la Salud (RPMS)
               p.mb-0 Centrada en la promoción de la salud, la prevención del riesgo y la enfermedad, así como la generación de una cultura del cuidado de la salud en las personas, familias y comunidades. Aplica para toda la población residente en el territorio.
@@ -125,7 +125,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img07.png')
+        img(src='@/assets/curso/tema3/img07.png' alt="Imagen decorativa")
       .col-lg-7(data-aos="fade-left")
         p.mb-0 Las RIAS plantean una estructura que reconoce, en primera instancia, los #[strong resultados en salud] a los que deben apuntar todos los agentes del sistema de salud; desde allí, reconoce las #[strong intervenciones poblacionales, colectivas e individuales], que según la evidencia disponible permiten aportar a dichos resultados en salud y plantean un marco amplio de #[strong acciones de gestión de la salud pública] (Resolución 518 de 2015) que permiten garantizar que se brinden las intervenciones y se gestionen, desde la coordinación intersectorial, las acciones que correspondan para afectar los determinantes sociales de la salud.
 
@@ -147,7 +147,7 @@
     .BGM07.px-md-5.px-4.mb-5
       .row.justify-content-center
         .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema3/img09.png')
+          img(src='@/assets/curso/tema3/img09.png' alt="Imagen decorativa")
         .col-lg-8(data-aos="fade-left")
           .row.justify-content-start.align-items-center.mb-4(data-aos="fade-right")
             .col-auto.px-0
@@ -176,68 +176,68 @@
       SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
         .BG09.hg-01
           figure
-            img(src='@/assets/curso/tema3/img10.jpg')
+            img(src='@/assets/curso/tema3/img10.jpg' alt="Imagen decorativa")
           .p-4
             .h4 Caracterización social y ambiental en entornos
             p.mb-0 Puerta de entrada para el reconocimiento de condiciones socio ambientales y situaciones de las personas que desarrollan su vida en dicho entorno.
         .BG09.hg-01
           figure
-            img(src='@/assets/curso/tema3/img11.jpg')
+            img(src='@/assets/curso/tema3/img11.jpg' alt="Imagen decorativa")
           .p-4
             .h4 Información en salud
             p.mb-0 Producción, organización y difusión de mensajes o datos que aportan elementos para la toma de decisiones en salud.
         .BG09.hg-01
           figure
-            img(src='@/assets/curso/tema3/img12.jpg')
+            img(src='@/assets/curso/tema3/img12.jpg' alt="Imagen decorativa")
           .p-4
             .h4 Educación y comunicación para la salud
             p.mb-0 Es un proceso dialógico de construcción de conocimiento que parte del diálogo de saberes y está orientado al desarrollo de capacidades para el cuidado de la salud, en reconocimiento de la autonomía individual, colectiva, y la garantía del derecho a la salud.
         .BG09.hg-01
           figure
-            img(src='@/assets/curso/tema3/img13.jpg')
+            img(src='@/assets/curso/tema3/img13.jpg' alt="Imagen decorativa")
           .p-4
             .h4 Conformación y fortalecimiento de redes sociales y comunitarias
             p.mb-0 Proceso que se realiza con las personas, familias, comunidades, organizaciones y redes (públicas o privadas) para compartir experiencias, conocimientos y recursos; sumar esfuerzos y crear sinergias; establecer lazos de cooperación; resignificar espacios públicos; desarrollar acciones comunitarias que promuevan las prácticas sociales y de salud, así como los procesos de gestión colectiva de la salud.
         .BG09.hg-01
           figure
-            img(src='@/assets/curso/tema3/img14.jpg')
+            img(src='@/assets/curso/tema3/img14.jpg' alt="Imagen decorativa")
           .p-4
             .h4 Zonas de orientación y centros de escucha
             p.mb-0 Es una estrategia comunitaria que propicia un espacio relacional con las comunidades, para establecer servicios y acciones de acogida, escucha activa, acompañamiento, asistencia, formación, capacitación y referenciación a otros servicios, con la intención de favorecer la inclusión social, la garantía del derecho a la salud y el empoderamiento en salud.
         .BG09.hg-01
           figure
-            img(src='@/assets/curso/tema3/img15.jpg')
+            img(src='@/assets/curso/tema3/img15.jpg' alt="Imagen decorativa")
           .p-4
             .h4 Rehabilitación basada en comunidad
             p.mb-0 Estrategia intersectorial de inclusión social y desarrollo comunitario que permite la generación de oportunidades para la población que presenta una condición de discapacidad y/o afectaciones psicosociales.
         .BG09.hg-01
           figure
-            img(src='@/assets/curso/tema3/img16.jpg')
+            img(src='@/assets/curso/tema3/img16.jpg' alt="Imagen decorativa")
           .p-4
             .h4 Jornadas de salud
             p.mb-0 Actividad que se concentra en un espacio de tiempo definido y que implica el despliegue de un equipo interdisciplinario para garantizar el acceso de la población a las intervenciones de las RIAS, prioritariamente en los ámbitos territoriales de alta ruralidad y con población dispersa; para lo cual se financian los aspectos logísticos y de organización requeridos para su ejecución, en articulación con las IPS y EPS del territorio que proveen el talento humano, así como los insumos necesarios y suficientes.
         .BG09.hg-01
           figure
-            img(src='@/assets/curso/tema3/img17.jpg')
+            img(src='@/assets/curso/tema3/img17.jpg' alt="Imagen decorativa")
           .p-4
             .h4 Vacunación antirrábica
             p.mb-0 Proceso de administración de inmunobiológicos a perros y gatos de un territorio, realizada por la entidad territorial.
         .BG09.hg-01
           figure
-            img(src='@/assets/curso/tema3/img18.jpg')
+            img(src='@/assets/curso/tema3/img18.jpg' alt="Imagen decorativa")
           .p-4
             .h4 Prevención y control de vectores
             p.mb-0 Procedimientos que permiten intervenir de manera regular y contingencial frente a factores de riesgo, para minimizar la propagación de vectores y reducir el contacto entre patógenos y el ser humano (toldillos impregnados y otros insumos).
         .BG09.hg-01
           figure
-            img(src='@/assets/curso/tema3/img19.jpg')
+            img(src='@/assets/curso/tema3/img19.jpg' alt="Imagen decorativa")
           .p-4
             .h4 Suministro de medicamentos e insumos relacionados con eventos de interés en salud pública
             p.mb-0 Enfermedades infecciosas desatendidas (desparasitación masiva, tracoma); estrategia de reducción de daños y riesgos en personas que se inyectan drogas; otros eventos de interés en salud pública definidos por el Ministerio de Salud y Protección Social.
 
     .row.justify-content-center.align-items-end.mb-5
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img20.svg' alt="Intervenciones dirigidas al individuo")
+        img(src='@/assets/curso/tema3/img20.svg' alt="Imagen decorativa")
       .col-lg-7(data-aos="fade-left")
         .row.justify-content-start.align-items-center.mb-5(data-aos="fade-right")
           .col-auto.px-0

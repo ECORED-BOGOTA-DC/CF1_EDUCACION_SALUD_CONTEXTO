@@ -12,7 +12,7 @@
     .BGIMG04.p-4.mb-5(data-aos="flip-up")
       .row.justify-content-center.align-items-end.mb-5
         .col-lg-6.col-10.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema4/img01.png' alt="Lineamientos técnicos")
+          img(src='@/assets/curso/tema4/img01.png' alt="Imagen decorativa")
         .col-lg-6
           .tarjeta.tarjeta--blanca.p-4
             SlyderA(tipo="b")
@@ -33,6 +33,9 @@
     .BGIMG05.px-md-5.px-4.pt-5.mb-5
       .row.justify-content-center
         .col-lg-10
+          .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+            h5 Figura 4
+            span 5 objetivos de  la Ruta de Promoción y Mantenimiento de la Salud
           figure(data-aos="zoom-in")
             img(src='@/assets/curso/tema4/img02.svg' alt="La imagen muestra los 5 objetivos de  la Ruta de Promoción y Mantenimiento de la Salud: Identificar y desarrollar capacidades, habilidades y prácticas en las personas, las familias y las comunidades para el cuidado y mantenimiento de la salud. Atender oportuna e integralmente a las personas que presentan un evento en salud. Identificar oportunamente vulnerabilidades, factores de riesgo, riesgos acumulados y alteraciones que emergen en cada momento vital que ameriten acciones en salud. Afectar los entornos para que sean protectores y potenciadores de la salud y el desarrollo. Realizar el seguimiento de la salud y el desarrollo integral de las personas en cada uno de los momentos del curso de vida.")
 
@@ -46,37 +49,37 @@
               p.mb-0 La RPMS plantea cambios importantes en relación con lo planteado anteriormente en la Resolución 412 de 2000 (derogada por Resolución 3280 de 2018), como es:  
         .col-5.d-lg-none.d-flex
         .col-lg-3.col-6.px-lg-2.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema4/img03.png' alt="RPMS plantea")
+          img(src='@/assets/curso/tema4/img03.png' alt="Imagen decorativa")
     
     .row.justify-content-center.mb-5
       .col-lg-3.col-md-6.col-10(data-aos="fade-right")
         .BGIMG06.hg-02.mb-lg-0.mb-4.p-4
           .row.justify-content-center.mb-4
             .col-lg-10
-              img(src='@/assets/curso/tema4/img04.svg')
+              img(src='@/assets/curso/tema4/img04.svg' alt="Imagen decorativa")
           p.text-center.mb-0 Ordenar esquema de intervenciones individuales por curso de vida, incluyendo la adultez.
       .col-lg-3.col-md-6.col-10(data-aos="flip-up")
         .BGIMG07.hg-02.mb-lg-0.mb-4.p-4
           .row.justify-content-center.mb-4
             .col-lg-10
-              img(src='@/assets/curso/tema4/img05.svg')
+              img(src='@/assets/curso/tema4/img05.svg' alt="Imagen decorativa")
           p.text-center.mb-0 Incorporar el abordaje familiar en la atención y a la familia como sujeto de atención.
       .col-lg-3.col-md-6.col-10(data-aos="flip-up")
         .BGIMG06.hg-02.mb-lg-0.mb-4.p-4
           .row.justify-content-center.mb-4
             .col-lg-10
-              img(src='@/assets/curso/tema4/img06.svg')
+              img(src='@/assets/curso/tema4/img06.svg' alt="Imagen decorativa")
           p.text-center.mb-0 Incluir nuevas finalidades: valoración integral en salud y educación en salud, que se complementan con las finalidades anteriores (detección temprana y protección específica).
       .col-lg-3.col-md-6.col-10(data-aos="fade-left")
         .BGIMG07.hg-02.p-4
           .row.justify-content-center.mb-4
             .col-lg-10
-              img(src='@/assets/curso/tema4/img07.svg')
+              img(src='@/assets/curso/tema4/img07.svg' alt="Imagen decorativa")
           p.text-center.mb-0 Posibilitar la prestación en los diferentes entornos de las intervenciones individuales con cumplimiento de calidad.
 
     .row.justify-content-center.mb-5
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema4/img08.png')
+        img(src='@/assets/curso/tema4/img08.png' alt="Imagen decorativa")
       .col-lg-7(data-aos="fade-left")
         p Una de las apuestas esenciales planteadas en las RIAS y que se concreta en la RPMS y la RIAMP son los #[strong resultados en salud], como apuesta central en la que deben combinarse los esfuerzos de todos los actores. Son los cambios en las condiciones de vida, concepciones y prácticas que promueven, mantienen y recuperan la salud, a la vez que favorecen el desarrollo integral de las personas, familias y comunidades, atribuidos a las intervenciones y atenciones en el continuo de la atención integral en salud. Comprenden resultados finales o de impacto y resultados intermedios o de efecto.
         .BG02.mb-4
@@ -124,7 +127,7 @@
     .BGIMG08.px-md-5.px-4.mb-5
       .row.justify-content-center.mb-4
         .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema4/img09.png')
+          img(src='@/assets/curso/tema4/img09.png' alt="Imagen decorativa")
         .col-lg-8(data-aos="fade-left")
           ul.lista-ul--color.lista-ul--separador.mb-0
             li(style="margin-bottom: 2px")
@@ -171,13 +174,13 @@
               i.fas.fa-check-circle(style="color: #6F88DA;")
               | Personas, familias y comunidades empoderadas para la exigibilidad y ejercicio del derecho a la vida y la salud.
         .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-          img(src='@/assets/curso/tema4/img10.png')
+          img(src='@/assets/curso/tema4/img10.png' alt="Imagen decorativa")
 
     .BGIMG02.mb-5(data-aos="flip-up")
       .row.justify-content-end.align-items-end
         .col-lg-1.d-lg-none.d-flex
         .col-lg-3.col-6.mb-lg-0.pt-lg-0.pt-4.pe-lg-0.pe-5.mb-4
-          img(src='@/assets/curso/tema4/img11.png' alt="Profesionales de la salud")
+          img(src='@/assets/curso/tema4/img11.png' alt="Imagen decorativa")
         .col-lg-8.p-4
           .row.justify-content-start
             .col-2.ps-5.pe-4

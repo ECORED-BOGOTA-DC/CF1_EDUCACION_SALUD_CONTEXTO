@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img01.png' alt=" Ley 1753 de 2015")
+        img(src='@/assets/curso/tema2/img01.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p En el marco de lo establecido por la Ley Estatutaria y por la Ley 1753 de 2015, en su Artículo 65, se establece la Política de Atención Integral en Salud, que permite abordar a toda la población residente en el territorio colombiano, estableciendo acciones que orientan a los integrantes del sistema según su competencia, en procura de mejorar la salud de la población en términos de equidad e integralidad. Al otorgar preeminencia al sistema de salud, ubica como núcleo de la intervención de todo el Estado la atención integral, más allá de la garantía de unas prestaciones individuales en salud y pone un acento especial en la rectoría pública en salud.
         .BG02
@@ -22,7 +22,7 @@
     .BG05.p-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-2.col-4.px-4.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema2/img02.svg' alt="Derecho fundamental a la salud")
+          img(src='@/assets/curso/tema2/img02.svg' alt="Imagen decorativa")
         .col-lg-10(data-aos="fade-left")
           .h4.mb-0 “El conjunto de enfoques, estrategias, procesos, instrumentos, acciones y recursos que centra el sistema de salud en el ciudadano, permite atender la naturaleza y el contenido del derecho fundamental a la salud, y orienta los objetivos del sistema de salud, para generar mejores condiciones de salud de la población, ordenando la intervención de los integrantes del sistema de salud y de otros actores responsables de garantizar la promoción de la salud, la prevención de la enfermedad, el diagnóstico, el tratamiento, la rehabilitación, la paliación y la muerte digna, en condiciones de accesibilidad, aceptabilidad, oportunidad, continuidad, integralidad y capacidad resolutiva.”
 
@@ -34,7 +34,7 @@
           ImagenInfograficaB.color-secundario
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/tema2/img03.svg', alt='Gestión integral de riesgo de salud')
+                img(src='@/assets/curso/tema2/img03.svg' alt="Imagen decorativa")
             div(x="32%" y="49%" tooltip="Atención primaria - Salud familiar" numero="1")
               .h5 Atención primaria - Salud familiar
               p.mb-0 Esta estrategia plantea la gestión intersectorial articulada con una atención en salud que se acerque a los sujetos y a sus entornos, partiendo de una integración de las atenciones individuales y colectivas, así como de los diferentes niveles de complejidad de los servicios de salud y en reconocimiento de la voz de las comunidades. Parte de reconocer métodos, tecnologías y prácticas validadas en la evidencia disponible y socialmente aceptadas, que mejoren la gestión en los servicios de salud aumentando su capacidad resolutiva, favoreciendo la territorialización y adscripción poblacional, así como el desarrollo de escenarios de atención multidisciplinarios e integrales en salud (MinSalud, 2016, p. 33).
@@ -43,7 +43,7 @@
               p.mb-0 Es una estrategia transversal que convoca a todos los actores y otros sectores a concurrir en la acción anticipatoria que permite modular o evitar la aparición de enfermedades o alteraciones; la identificación temprana, cuando se presentan, y su abordaje integral, para disminuir los impactos en la salud y el desarrollo a través de acciones que van desde la prevención hasta la paliación. Implica el seguimiento y monitoreo de los riesgos para la salud, así como de los resultados en los sujetos hacia donde está orientada la acción. Además, propicia mejorar la experiencia de los sujetos en su interacción con los servicios de salud y fortalecer la sostenibilidad del sistema. Tiene un componente colectivo, que se desarrolla desde las intervenciones colectivas y está a cargo de la entidad territorial, y un componente individual, que está en cabeza de las Entidades Promotoras de Salud (EPS) o aseguradores, que se relaciona muy estrechamente con la gestión clínica que desarrolla el prestador, así como con los procesos de autocuidado por parte del individuo, extendido a su familia y comunidad (MinSalud, 2016, p. 40).
             div(x="53.5%" y="88%" tooltip="Enfoque diferencial de territorios y poblaciones" numero="3")
               .h5 Enfoque diferencial de territorios y poblaciones
-              p.mb-0 La política identifica la integralidad desde el reconocimiento de los ámbitos territoriales donde las personas, familias y comunidades habitan y desarrollan su trayectoria vital; desde allí, reconoce, asimismo, las particularidades y condiciones que le asisten a las personas según su momento de curso de vida, haciendo un llamado al reconocimiento del género como determinante y en articulación con los demás diferenciales que le son propios a cada uno (pasando por lo étnico, la diversidad sexual, la condición de víctima del conflicto armado o con condición de discapacidad, entre otras). Las personas están determinadas por varias de estas condiciones, lo cual es abordado desde el enfoque interseccional, que nos permite entender que los procesos de salud  – enfermedad, las necesidades asociadas y las respuestas que cada uno puede dar frente a las situaciones son diferentes si se vive en zona rural o urbana, se es mujer u hombre, indígena o sin pertenencia étnica, joven o adulto mayor, si presentó o no una discapacidad, además del contexto socioeconómico y relacional (redes de apoyo) que se tengan con sus  familias (MinSalud, 2016, p. 32).
+              p.mb-0 La política identifica la integralidad desde el reconocimiento de los ámbitos territoriales donde las personas, familias y comunidades habitan y desarrollan su trayectoria vital; desde allí, reconoce, asimismo, las particularidades y condiciones que le asisten a las personas según su momento de curso de vida, haciendo un llamado al reconocimiento del género como determinante y en articulación con los demás diferenciales que le son propios a cada uno (pasando por lo étnico, la diversidad sexual, la condición de víctima del conflicto armado o con condición de discapacidad, entre otras). Las personas están determinadas por varias de estas condiciones, lo cual es abordado desde el enfoque interseccional, que nos permite entender que los procesos de salud  - enfermedad, las necesidades asociadas y las respuestas que cada uno puede dar frente a las situaciones son diferentes si se vive en zona rural o urbana, si es mujer u hombre, indígena o sin pertenencia étnica, joven o adulto mayor, si presentó o no una discapacidad, además del contexto socioeconómico y relacional (redes de apoyo) que se tengan con sus  familias (MinSalud, 2016, p. 32).
             div(x="75%" y="49%" tooltip="El enfoque de cuidado" numero="4")
               .h5 El enfoque de cuidado
               p Se entiende como las capacidades, decisiones y acciones que el individuo, la comunidad y el Estado adoptan para proteger la salud propia, de las familias, de la comunidad y del territorio. Involucra el deber de la sociedad y de los sistemas de salud de realizar acciones que permitan ganancias en salud. Se relaciona con el curso de vida y parte de reconocer diferentes esferas del cuidado, desde el cuidar de sí, de los otros y del entorno. Implica generar oportunidades de desarrollo y condiciones para la protección y el bienestar, promueve la convivencia, el cuidado hacia lo público, la solidaridad, la cultura de la seguridad social y el fortalecimiento de redes de apoyo familiar y social.
@@ -53,7 +53,7 @@
       .row.justify-content-end.align-items-end
         .col-lg-1.d-lg-none.d-flex
         .col-lg-3.col-6.mb-lg-0.pt-lg-0.pt-4.pe-lg-0.pe-5.mb-4
-          img(src='@/assets/curso/tema2/img04.png' alt="Orientación de enfoque")
+          img(src='@/assets/curso/tema2/img04.png' alt="Imagen decorativa")
         .col-lg-8.p-4
           .row.justify-content-start
             .col-2.ps-5.pe-4

@@ -9,7 +9,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img01.png' alt="Resultados ubicados en los sujetos")
+        img(src='@/assets/curso/tema1/img01.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p La Atención Integral en Salud es un concepto que organiza la acción del sector salud y otros sectores en el marco de la garantía del derecho a esta. Las Rutas Integrales de Atención en Salud son una herramienta que permite articular los esfuerzos de los actores del sector y otros sectores, apuntando al logro de los resultados ubicados en los sujetos, por medio de procesos de gestión vinculados a escenarios de atención que potencian la acción organizada y promueven la capacidad de agencia en las personas, familias y comunidades.
         .BG02.p-4
@@ -27,17 +27,17 @@
             .cajon.color-primario.p-4
               p.mb-0 Plantea que las intervenciones se realicen de forma integral, complementaria y anticipatoria, teniendo en cuenta las ventanas de oportunidad en el desarrollo integral de las personas en sus diferentes momentos del curso de la vida.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img02.png' alt="Ley 1751 de 2015")
+            img(src='@/assets/curso/tema1/img02.png' alt="Imagen decorativa")
       .BG03.p-lg-4.p-3(titulo="Ley Estatutaria en Salud")
         .row.justify-content-center
           .col-lg-8.order-lg-1.order-2
             p.mb-0 La Ley Estatutaria de la Salud (Ley 1751 de 2015) plantea como su objetivo “garantizar el derecho a la salud, regularlo y establecer sus mecanismos de protección”. Implica nuevos acuerdos entre el Estado y la sociedad, considerando como centro del sistema de salud a los sujetos (individuales y colectivos), bajo un planteamiento esencial:
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img03.png')
+            img(src='@/assets/curso/tema1/img03.png' alt="Imagen decorativa")
     
     .tarjeta-avatar-b.mb-5(data-aos="fade-right")
       .tarjeta-avatar-b__img(style="min-width: 9%")
-        img(src='@/assets/curso/tema1/img04.svg' alt='La salud es un derecho')
+        img(src='@/assets/curso/tema1/img04.svg' alt="Imagen decorativa")
       .tarjeta.BGR04S(style="margin-left:-5%")
         .p-4
           .h4 La salud es un derecho social fundamental
@@ -47,7 +47,7 @@
 
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/KNAMlF7jM2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/LuOjTzG8X3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
 </template>
 

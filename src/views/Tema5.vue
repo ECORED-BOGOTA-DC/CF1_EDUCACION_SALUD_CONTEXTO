@@ -19,11 +19,11 @@
                 .h5.text-end.mb-0 Paulo Freire
           .col-5.d-lg-none.d-flex
           .col-lg-3.col-6.px-lg-2.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema5/img01.png' alt="Paulo Freire")
+            img(src='@/assets/curso/tema5/img01.png' alt="Imagen decorativa")
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema5/img02.png')
+        img(src='@/assets/curso/tema5/img02.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p Aunque la importancia de la educación para la promoción de la salud y la prevención de la enfermedad se reconoce cada vez más, lo cierto es que usualmente esta se ha basado en la transmisión de ideas y formación de hábitos saludables de acuerdo con criterios medicalizados, de forma prescriptiva, sin tener en cuenta los propios saberes y prácticas que sobre su salud tienen los individuos, familias y colectivos, y sin contar con las posibilidades reales que brinda el contexto para ser y actuar saludablemente.
         .BG02.mb-4(data-aos="flip-up")
@@ -37,7 +37,7 @@
       .row.justify-content-center
         .col-lg-8
           .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-            h5 Figura 4
+            h5 Figura 5
             span Interrogantes en el proceso pedagógico
           figure(data-aos="zoom-in")
             img(src='@/assets/curso/tema5/img03.svg' alt="Muestra tres interrogantes: 01 ¿Cual es el tipo de humanos que se pretende formar?. 02 ¿Qué se quiere enseñar?. 03 ¿Para qué y cómo hacerlo?")
@@ -63,7 +63,7 @@
         p En este sentido, es menester decir que la práctica educativa no es proteccionista, ni unidireccional, ni tampoco pretende controlar a los sujetos, sino servir de mediación con los sujetos y las comunidades para lograr su acción protagónica en la construcción de su salud. Adicionalmente, hay debilidades en la formación del talento humano en salud para adelantar esta clase de procesos: se desconoce el avance que a lo largo de la historia ha tenido la EpS, se desconoce el acervo teórico que existe en las ciencias de la educación y cómo podría aplicarse.
         p.mb-0 Todo lo anterior, lleva a la imperiosa necesidad de que los trabajadores de la salud hagan conciencia sobre el propio modelo pedagógico con el que actúan y perpetúan ciertas prácticas, basadas, por una parte, en el supuesto poder superior del conocimiento científico y, por otra, en ideas homogeneizantes sobre la salud que no consideran los determinantes sociales (y ambientales) de la salud como aspectos trascendentales que condicionan y afectan las posibilidades de que los sujetos construyan una vida saludable, digna de ser vivida.
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema5/img05.png')
+        img(src='@/assets/curso/tema5/img05.png' alt="Imagen decorativa")
 
     .BG02.mb-4(data-aos="flip-up")
       .row.justify-content-center.align-items-center
@@ -78,7 +78,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema5/img06.png')
+        img(src='@/assets/curso/tema5/img06.png' alt="Imagen decorativa")
       .col-lg-7(data-aos="fade-left")
         p.mb-0 La educación para la salud ha tenido diversas intencionalidades de acuerdo con las características del desarrollo histórico de la humanidad. En nuestro país, por ejemplo, a principios del siglo XX, cuando la preocupación estaba centrada en las enfermedades epidémicas y endémicas, el problema de morbimortalidad se convirtió en la mayor preocupación de los gobiernos, la EpS se centró en el tema de la higiene, la educación sanitaria, la profilaxis, el disciplinamiento de los cuerpos (como restauración fisiológica), de la mano de la medicalización de la sociedad y la escolarización de los saberes sanitarios.
 
@@ -86,24 +86,24 @@
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         .BG10.hg-03
           .figure
-            img(src='@/assets/curso/tema5/img07.jpg' alt="Salud pública")
+            img(src='@/assets/curso/tema5/img07.jpg' alt="Imagen decorativa")
           .px-4.pb-4
             .row.justify-content-around.align-items-center
               .col
                 .h4.mb-0 Siglo XX
               .col-lg-2.col-3.img-01
-                img(src='@/assets/curso/tema5/img09.svg')
+                img(src='@/assets/curso/tema5/img09.svg' alt="Imagen decorativa")
             p.mb-0 Tomó fuerza el concepto de salud pública, orientada hacia el perfeccionamiento de la salud individual y colectiva, las acciones educativas se orientaron a los espacios donde hubiera mayor concentración de personas (escuelas, lugares de trabajo, comunidades barriales, etc.), para enseñarle a la gente cómo manejar problemas de desnutrición, enfermedades gastrointestinales y enfermedades inmunoprevenibles, entre otros aspectos.
       .col-lg-6.col-10(data-aos="fade-left")
         .BG11.hg-03
           .figure
-            img(src='@/assets/curso/tema5/img08.jpg' alt="Cocina saludable")
+            img(src='@/assets/curso/tema5/img08.jpg' alt="Imagen decorativa")
           .px-4.pb-4
             .row.justify-content-around.align-items-center
               .col
                 .h4.mb-0 Década de los 60
               .col-lg-2.col-3.img-01
-                img(src='@/assets/curso/tema5/img09.svg')
+                img(src='@/assets/curso/tema5/img09.svg' alt="Imagen decorativa")
             p.mb-0 Con la comprensión de los determinantes sociales y ambientales de la salud, la estrategia educativa se centró en lograr que la gente tuviera el mayor control posible sobre los aspectos que condicionan su salud, mediante la generación de responsabilidad sobre su estilo de vida (autocuidado-autonomía).
 
     .BG02.mb-5(data-aos="flip-up")
@@ -121,7 +121,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="flip-up")
-        img(src='@/assets/curso/tema5/img10.svg')
+        img(src='@/assets/curso/tema5/img10.svg' alt="Imagen decorativa")
       .col-lg-5.mb-lg-0.mb-4
         .BGR10S.px-5.py-3.mb-5(data-aos="fade-right")
           .h4.text-center.mb-0 Pensamiento positivista (clásico, moderno, eurocéntrico y patriarcal)
@@ -213,7 +213,7 @@
                 p.mb-0 El concepto, la acepción y la aplicación de la Educación para la Salud han tenido transformaciones en su alcance y objetivos que definen sus cómo, a lo largo del siglo XX, basadas en las posturas epistemológicas explicadas en el apartado anterior.
           .col-5.d-lg-none.d-flex
           .col-lg-3.col-6.px-lg-2.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema5/img11.png' alt="Mujer investigando")
+            img(src='@/assets/curso/tema5/img11.png' alt="Imagen decorativa")
 
     .row.justify-content-start.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.px-0
@@ -229,19 +229,19 @@
         .h3.mb-2(style="color: #D7DADD") 01
         .row.justify-content-center.mb-4
           .col-lg-4.col-6
-            img(src='@/assets/curso/tema5/img12.svg')
+            img(src='@/assets/curso/tema5/img12.svg' alt="Imagen decorativa")
         p.text-center.mb-0 El concepto inicia con el paradigma desarrollista económico en los 40, 50 y 60, donde el desarrollo se ve como el crecimiento de la economía, de la producción y del comercio.
       .col-lg-4.col-md-8.BG03.p-4.mb-lg-0.mb-4(style="box-shadow: 2px 2px 10px #DEDEDE" data-aos="flip-up")
         .h3.mb-2(style="color: #D7DADD") 02
         .row.justify-content-center.mb-4
           .col-lg-4.col-6
-            img(src='@/assets/curso/tema5/img13.svg')
+            img(src='@/assets/curso/tema5/img13.svg' alt="Imagen decorativa")
         p.text-center.mb-0 La información se orienta a eliminar la brecha entre países pobres y ricos, copiando el modelo de EE. UU. y Europa, desde una visión asistencialista.
       .col-lg-4.col-md-8.BG03.p-4(style="border-radius: 0 10px 10px 0; border-left: 2px solid #DDDDDD; box-shadow: 2px 2px 10px #DEDEDE" data-aos="fade-left")
         .h3.mb-2(style="color: #D7DADD") 03
         .row.justify-content-center.mb-4
           .col-lg-4.col-6
-            img(src='@/assets/curso/tema5/img14.svg')
+            img(src='@/assets/curso/tema5/img14.svg' alt="Imagen decorativa")
         p.text-center.mb-0 En este paradigma, el personal de salud es el detentor del conocimiento, y los otros (llámese paciente o comunidad) son receptivos pasivos de la información; la EpS es sinónimo de la información en salud, la cual se suministra como una píldora o receta que los individuos deben ingerir siguiendo las instrucciones del personal de salud. 
 
     .row.justify-content-start.align-items-center.mb-4(data-aos="fade-right")
@@ -252,14 +252,14 @@
     
     .row.justify-content-center.mb-5
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema5/img15.png')
+        img(src='@/assets/curso/tema5/img15.png' alt="Imagen decorativa")
       .col-lg-7(data-aos="fade-left")
         p.mb-0 Ya en los 70, se cambia el paradigma, la información se orienta al cambio de conducta, con un enfoque más “educativo”; se da inicio a lo que conocemos como “Educación para la Salud”. La Educación para la Salud es dirigida a impactar la conducta, y tiene como fin generar cambios en los estilos de vida a partir de la implementación de comportamientos saludables.  Para lograr esto, se articulan varios enfoques: el de creencias en salud, que parte de que son las creencias las que influyen en los comportamientos de las personas y en su aceptación de las medidas de salud recomendadas; y la comunicación persuasiva, basada en la CAP (conocimientos, actitudes y prácticas), donde las actitudes determinarán los comportamientos saludables.
     
     .BG05.p-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-2.col-4.px-4.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema5/img16.svg' alt="Comunicación persuasiva")
+          img(src='@/assets/curso/tema5/img16.svg' alt="Imagen decorativa")
         .col-lg-10(data-aos="fade-left")
           .p.mb-0 La #[strong comunicación persuasiva], llamada también difusionista, considera que el aportar conocimiento, por ejemplo, en temas de salud, hará que las personas cambien de actitud, y eso hará que cambien su comportamiento; el medio por excelencia de este enfoque son los medios de comunicación masiva.
 
@@ -270,10 +270,10 @@
         .col.p-4 
           p.mb-0 Este enfoque da nacimiento al mercadeo social, la educación sanitaria, la promoción de la salud y el edu-entretenimiento.  Con el mercadeo social, asociado al paradigma difusionista de la información, se pretende promover prácticas y productos de beneficio social desde los medios de comunicación, orientados al cambio de comportamiento individual; por ejemplo, evitar el consumo de tabaco o de grasa.  Los objetivos de este enfoque son:
     
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-lg-6
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 5
+          h5 Figura 6
           span Objetivos enfoque cambio de conducta
         .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
           .col-2.pe-0.BG11.hg-06.p-2
@@ -312,17 +312,17 @@
       .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
         p.mb-0 En esencia, los elementos de la educación en salud, desde una perspectiva más persuasiva, apuntan hacia el cambio de comportamiento y a la promoción de estilos de vida saludables para la protección de la salud.  Esta perspectiva de la educación que, como se ha dicho, se le conoce también como “enfoque de conocimiento”, persiste hoy en día y es el enfoque más popular en las intervenciones en salud, bajo el supuesto que las personas cambiarán su conducta en la medida que conozcan el daño que genera un comportamiento determinado. Se parte de que las personas se comportan de manera racional y que con una información sobre riesgos cambiarán su conducta. Este enfoque, entonces, busca influir sobre las creencias, aptitudes y comportamientos de las personas, por ejemplo, mediante las campañas publicitarias en medios de comunicación masiva, los cambios en los etiquetados y las medidas informativas y actitudinales.        
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema5/img17.png' alt="Educación en salud")
+        img(src='@/assets/curso/tema5/img17.png' alt="Imagen decorativa")
     
     .row.justify-content-center.mb-5
       .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema5/img18.png' alt="Alimentación saludable")
+        img(src='@/assets/curso/tema5/img18.png' alt="Imagen decorativa")
       .col-lg-9
         p Tanto el enfoque netamente informativo como el enfoque difusionista orientado a la conducta tienen grandes limitaciones: no toman en cuenta las dinámicas locales ni las múltiples dimensiones socioeconómicas que atraviesan al sujeto, y tampoco los medios o formas  de comunicación locales, parten de un modelo biológico individual de salud – enfermedad,  ponen las problemáticas de salud en el comportamiento de los individuos, con poco o ningún interés por las cuestiones sociales, convirtiendo los comportamientos en el objetivo último de las intervenciones, adoptando una mirada vertical y autoritaria, donde se debe acatar la directriz del personal de salud.  
         .BG02.p-4.mb-5(data-aos="fade-left")
           .row.justify-content-center.align-items-center
             .col-lg-2.col-4.px-4.mb-lg-0.mb-4(data-aos="fade-right")
-              img(src='@/assets/curso/tema5/img19.svg' alt="Generación de conocimiento")
+              img(src='@/assets/curso/tema5/img19.svg' alt="Imagen decorativa")
             .col-lg-10(data-aos="fade-left")
               p.mb-0 Se basan en que el comportamiento cambiará a partir de generar conocimiento y modificar las actitudes de los individuos con información y técnicas persuasivas dirigidas a los individuos, dándoles a entender la responsabilidad en su propia salud.  Parte de las críticas que hacen los autores es que estas técnicas son manipuladoras, pues no toman en cuenta la libre voluntad de las personas, descartando el pleno uso de la inteligencia y las decisiones conscientes de los individuos.
 
@@ -334,14 +334,14 @@
     
     .row.justify-content-center.mb-5
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema5/img20.png' alt="Buscar información")
+        img(src='@/assets/curso/tema5/img20.png' alt="Imagen decorativa")
       .col-lg-7
         p Este abordaje se transforma en los 80, la educación para el desarrollo pone énfasis en la creación de capacidad y construcción del sujeto: aquí se plantea la necesidad de reconocer la influencia que ejercen los factores sociales, económicos, ambientales y las desigualdades socioeconómicas en relación con la salud (y otras problemáticas sociales) en el sujeto. Esta etapa tiene como fin:
         .row.justify-content-center
           .col-lg-6.px-0(data-aos="fade-right")
             .tarjeta-avatar-b.mb-5
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema5/img21.svg' alt='Balanza')
+                img(src='@/assets/curso/tema5/img21.svg' alt="Imagen decorativa")
               .tarjeta.BGR14.hg-07
                 .p-4
                   .h4.mb-0 Disminuir las desigualdades sociales en los procesos salud - enfermedad, desde un enfoque crítico.  
@@ -351,7 +351,7 @@
                 .p-4
                   .h4.mb-0 Desarrollar la conciencia e incentivar la participación.
               .tarjeta-avatar-b__img(style="left: -10%")
-                img(src='@/assets/curso/tema5/img22.svg' alt='Idea')
+                img(src='@/assets/curso/tema5/img22.svg' alt="Imagen decorativa")
 
     .BG02.mb-5(data-aos="flip-up")
       .row.justify-content-center.align-items-center
@@ -370,7 +370,7 @@
                 .h5 La Educación para la Salud, entonces, se adhiere al Paradigma Alternativo de la educación, cuyo máximo exponente es Paulo Freire, donde la educación se orienta al empoderamiento y la autodeterminación de las comunidades para la definición de su propio modelo de desarrollo, siendo decisores y participantes activos del proceso.
           .col-5.d-lg-none.d-flex
           .col-lg-3.col-6.px-lg-2.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema5/img01.png' alt="Paulo Freire")
+            img(src='@/assets/curso/tema5/img01.png' alt="Imagen decorativa")
     
     p.mb-5 Estos paradigmas de la Educación para la Salud se articulan a los tipos de educación según sus énfasis (Kaplún, 2002); primero, educación dirigida al conocimiento; segundo, educación dirigida a los efectos; y tercero, educación basada en el proceso, que implica que los modelos sean exógenos o endógenos al individuo, y que se vea al otro como objeto o como sujeto:
 
@@ -407,12 +407,12 @@
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema5/img23.png')
+        img(src='@/assets/curso/tema5/img23.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         TabsA.color-acento-contenido
           .tarjeta.BGR03.p-4(titulo="Contenidos")
             h4 Educación que pone el énfasis en los contenidos
-            p.mb-0 Es la educación realizada por profesores a alumnos, tiene como fin transmitir conocimiento.  Este tipo de educación es considerada como vertical, autoritaria, denominada por Paulo Freire como bancaria; lo que se busca es dar instrucciones o conocimientos a una persona o comunidad considerada a priori ignorante. Aquí, el educador es el instruido y el educando es el ignorante.
+            p.mb-0 Es la educación realizada por profesores a alumnos, tiene como fin transmitir conocimiento.  Este tipo de educación es considerada como vertical, autoritaria, denominada por Paulo Freire como bancaria; lo que se busca es dar instrucciones o conocimientos a una persona o comunidad considerada a #[em priori] ignorante. Aquí, el educador es el instruido y el educando es el ignorante.
           .tarjeta.BGR03.p-4(titulo="Efectos")
             h4 Educación que pone el énfasis en los efectos
             p.mb-0 Llamada también ingeniería del comportamiento, busca moldear la conducta de las personas con objetivos o conductas definidas de antemano. En este caso, el comunicador/educador se concibe como un arquitecto de la conducta humana. Es también llamada comunicación manipuladora.
@@ -541,14 +541,14 @@
     .BG05.p-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-2.col-4.px-4.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema5/img24.svg' alt="Balanza")
+          img(src='@/assets/curso/tema5/img24.svg' alt="Imagen decorativa")
         .col-lg-10(data-aos="fade-left")
           .h5.mb-5 “El proceso pedagógico (dialógico e intencionado) de construcción de conocimiento y aprendizaje que, mediante el diálogo de saberes, pretende construir o fortalecer el potencial de las personas, familias, comunidades y organizaciones para promover el cuidado de la salud, gestionar el riesgo en salud y transformar positivamente los entornos en los que se desenvuelven sus vidas” 
           .h5.text-end.mb-0 <i style="color: #4ADBD1; padding-right: 10px" class="fas fa-square"></i>(Resolución 3280 de 2018).
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema5/img25.png' alt="Educación para la salud")
+        img(src='@/assets/curso/tema5/img25.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         .BG02.mb-5
           .row.justify-content-center
@@ -567,11 +567,13 @@
             caption Nota. <a style="font-weight: 400">Ministerio de Salud y Protección Social (2018).</a>
             thead(style="border-top: 5px solid #6F88DA")
               tr
-                th(style="background-color: #B3C1EF;" colspan="3").text-center Fundamentos pedagógicos que sustentan la EpS en el marco de las RIAS
+                th(style="background-color: #B3C1EF; width: 10%;").text-center Número
+                th(style="background-color: #B3C1EF; width: 40%;").text-center Fundamentos pedagógicos
+                th(style="background-color: #B3C1EF; width: 50%;").text-center Sustentación
               tr
-                td(style="border: 2px solid #E8E8E8; background-color: #FFF; width: 10%;") 1
-                td(style="border: 2px solid #E8E8E8; background-color: #FFF; width: 40%;") Enfoque de Educación para la Salud
-                td(style="border: 2px solid #E8E8E8; background-color: #FFF; width: 50%;") 1º De segunda generación: EpS comportamental.<br>2º De tercera generación: EpS participativa y emancipatoria.
+                td(style="border: 2px solid #E8E8E8; background-color: #FFF;") 1
+                td(style="border: 2px solid #E8E8E8; background-color: #FFF;") Enfoque de Educación para la Salud
+                td(style="border: 2px solid #E8E8E8; background-color: #FFF;") 1º De segunda generación: EpS comportamental.<br>2º De tercera generación: EpS participativa y emancipatoria.
             tbody
               tr
                 td(style="border: 2px solid #E8E8E8; background-color: #F0F3FA;") 2
@@ -608,7 +610,7 @@
       
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema5/img26.png' alt="Ser humano")
+        img(src='@/assets/curso/tema5/img26.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p.mb-0 El constructivismo parte del hecho de que el conocimiento es una construcción del ser humano y no una copia de la realidad. El aprendizaje es esencialmente activo y, en la medida en que una persona aprende algo nuevo, lo incorpora a sus experiencias previas y a sus propias estructuras mentales.  En este contexto, el constructivismo social está basado en la premisa de que los nuevos conocimientos se forman a partir de los propios esquemas de la persona (producto de su realidad) y de su comparación con los esquemas de los demás individuos que lo rodean. El paso de un estadio a otro sucede como producto de la interacción social (dentro de un contexto cultural particular) e implica la reorganización de esquemas y estructuras mentales.  En este camino, las personas se apropian de los conocimientos que han sido construidos por la sociedad y adquieren y complejizan sus propios procesos psicológicos superiores (lenguaje, razonamiento, etc.). Así, el proceso interpersonal queda transformado en otro intrapersonal.
 
@@ -622,20 +624,20 @@
                 .h5.mb-0 Vygotsky considera que el aprendizaje es uno de los mecanismos fundamentales de desarrollo y, por tanto, la enseñanza debe adelantarse a este para jalonarlo.  López (s.f.)  considera que el aprendizaje está determinado por el medio en el que se desenvuelve el sujeto y, desde este punto de vista, la interacción social –actividad colectiva- es el motor del desarrollo. Por lo anterior, hay que conocer:
           .col-5.d-lg-none.d-flex
           .col-lg-2.col-4.px-lg-2.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema5/img27.png' alt="Vygotsky")
+            img(src='@/assets/curso/tema5/img27.png' alt="Imagen decorativa")
 
     .row.justify-content-center.mb-4
       .col-lg-10.mb-4(data-aos="flip-up")
         .tarjeta-avatar-b(data-aos="fade-right")
           .tarjeta-avatar-b__img(style="min-width: 9%")
-            img(src='@/assets/curso/tema5/img28.svg' alt='1')
+            img(src='@/assets/curso/tema5/img28.svg' alt="Imagen decorativa")
           .tarjeta.BGR04S(style="margin-left:-5%")
             .p-4
               .h5.mb-0 Cuál es la zona de desarrollo próximo de cada sujeto, es decir, cuál es la distancia entre el nivel real de desarrollo (lo que puede hacer solo) y el nivel de desarrollo potencial (lo que puede hacer mediante una guía o la cooperación de otro).
       .col-lg-10(data-aos="flip-up")
         .tarjeta-avatar-b.mb-5(data-aos="fade-right")
           .tarjeta-avatar-b__img(style="min-width: 9%")
-            img(src='@/assets/curso/tema5/img29.svg' alt='2')
+            img(src='@/assets/curso/tema5/img29.svg' alt="Imagen decorativa")
           .tarjeta.BGR04P(style="margin-left:-5%")
             .p-4
               .h5.mb-0 Cuáles son los mejores mediadores para desarrollar las capacidades (mediadores instrumentales: lenguaje, objetos, etc.; y mediadores sociales: padres, cuidadores, TH en salud, etc.).
@@ -643,7 +645,7 @@
     .BG05.p-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-2.col-4.px-4.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema5/img30.svg' alt="Conocimiento")
+          img(src='@/assets/curso/tema5/img30.svg' alt="Imagen decorativa")
         .col-lg-10(data-aos="fade-left")
           .h5.mb-0 El conocimiento, entonces, no es un objeto que se transmite de uno a otro, sino una construcción que depende del medio social en el que está inmersa la persona, y que es adquirido mediante operaciones mentales cognitivas (contrastar, construir, comunicar, pensar), que se despliegan tanto por la actividad propia como por la participación en escenarios de actividad cooperativa para el aprendizaje. Uno de los métodos por excelencia para lograr el aprendizaje lo constituyen los proyectos.
 
@@ -655,7 +657,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema5/img31.png')
+        img(src='@/assets/curso/tema5/img31.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p Basado en los planteamientos de Ausubel, el proceso pedagógico debe partir de conocer la estructura cognitiva previa de los sujetos, para, desde allí, preparar la nueva información, que se conecte de forma sustancial (no arbitraria) con un aspecto existente y relevante de tal estructura conceptual. Esa nueva información afectará la estructura existente mediante su reordenamiento (subordinación, supraordinación, categorización, recategorización, inclusión de un nuevo concepto) (Rodríguez, 2004).   Todo lo anterior requiere de dos premisas: por una parte, la motivación de la persona por aprender, y por otra, que quien organiza el proceso pedagógico averigüe previamente cuál es esa estructura, qué tan estable es, y qué experiencias previas tiene el sujeto, con el fin de diseñar las estrategias didácticas que permitan que los nuevos aprendizajes se vinculen a las ideas previas de forma significativa, lo cual se traduce en mayor retención de conocimientos.
         p.mb-0 Dentro de los requisitos para lograr aprendizajes significativos, se encuentran:
@@ -664,35 +666,35 @@
       .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="fade-right")
         .BG10.hg-08
           .figure
-            img(src='@/assets/curso/tema5/img32.jpg' alt="Lógica")
+            img(src='@/assets/curso/tema5/img32.jpg' alt="Imagen decorativa")
           .px-4.pb-4
             .row.justify-content-around.align-items-center.mb-2
               .col
                 .h4.mb-0 Significatividad lógica del material
               .col-lg-2.col-3.img-01
-                img(src='@/assets/curso/tema5/img09.svg')
+                img(src='@/assets/curso/tema5/img09.svg' alt="Imagen decorativa")
             p.mb-0 El material debe tener una estructura interna que permita construir nuevos significados.
       .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="fade-right")
         .BG11.hg-08
           .figure
-            img(src='@/assets/curso/tema5/img33.jpg' alt="Psicológica")
+            img(src='@/assets/curso/tema5/img33.jpg' alt="Imagen decorativa")
           .px-4.pb-4
             .row.justify-content-around.align-items-center.mb-2
               .col
                 .h4.mb-0 Significatividad psicológica del material
               .col-lg-2.col-3.img-01
-                img(src='@/assets/curso/tema5/img09.svg')
+                img(src='@/assets/curso/tema5/img09.svg' alt="Imagen decorativa")
             p.mb-0 La persona debe poder conectar el nuevo conocimiento con los saberes que ya están en su estructura cognitiva, es decir, debe ser comprensible.
       .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="fade-right")
         .BG10.hg-08
           .figure
-            img(src='@/assets/curso/tema5/img34.jpg' alt="Aprendizaje")
+            img(src='@/assets/curso/tema5/img34.jpg' alt="Imagen decorativa")
           .px-4.pb-4
             .row.justify-content-around.align-items-center.mb-2
               .col
                 .h4.mb-0 Actitud orientada al aprendizaje por parte del sujeto
               .col-lg-2.col-3.img-01
-                img(src='@/assets/curso/tema5/img09.svg')
+                img(src='@/assets/curso/tema5/img09.svg' alt="Imagen decorativa")
             p.mb-0 La persona debe querer aprender, además de poder hacerlo.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -705,14 +707,14 @@
       .col-lg-10.mb-4(data-aos="flip-up")
         .tarjeta-avatar-b(data-aos="fade-right")
           .tarjeta-avatar-b__img(style="min-width: 9%")
-            img(src='@/assets/curso/tema5/img35.svg' alt='1')
+            img(src='@/assets/curso/tema5/img35.svg' alt="Imagen decorativa")
           .tarjeta.BGR04S(style="margin-left:-5%")
             .p-4
               .h5.mb-0 Generar experiencias para que las personas puedan participar activamente en la resolución de un problema concreto de la realidad.
       .col-lg-10(data-aos="flip-up")
         .tarjeta-avatar-b.mb-5(data-aos="fade-right")
           .tarjeta-avatar-b__img(style="min-width: 9%")
-            img(src='@/assets/curso/tema5/img36.svg' alt='2')
+            img(src='@/assets/curso/tema5/img36.svg' alt="Imagen decorativa")
           .tarjeta.BGR04P(style="margin-left:-5%")
             .p-4
               .h5.mb-0 Identificar cómo cada participante del proceso educativo organiza mentalmente la información y cuál es la relación que tiene con su medio, para ayudarle a encontrar sentido a lo que aprende y desarrollar sus capacidades.
@@ -725,7 +727,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema5/img37.png' alt="Sociedad justa y equitativa")
+        img(src='@/assets/curso/tema5/img37.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p Se basa en la idea de que es posible crear una sociedad justa y equitativa, por tanto, se requiere empoderar a las personas, quienes, mediante una lectura crítica de la realidad y la problematización de las relaciones sociales (de los poderes que circulan en ella), serán capaces de develar intereses, conflictos, y por tanto, de actuar para mejorar la situación que viven (Mejía, 2016; Torres, 1993).
         .BG02.mb-5
@@ -745,7 +747,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 6
+          h5 Figura 7
           span Educación desde la perspectiva crítica-educación
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema5/img38.svg' alt="Muestra el reconocimiento de saberes previos: a partir de saberes previos significa no solo reconocer y valorar los saberes del otro, sino exige una responsabilidad ética. aprendemos desde o que sabemos, pero también contra a pesar de ellos.  Aprendizaje colectivo, dialogo de saberes y problematización de la realidad.")
@@ -754,7 +756,7 @@
     .BG05.p-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-2.col-4.px-4.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema5/img39.svg' alt="Educación")
+          img(src='@/assets/curso/tema5/img39.svg' alt="Imagen decorativa")
         .col-lg-10(data-aos="fade-left")
           .h5.mb-0 Por lo anterior y en consonancia con los referentes pedagógicos definidos, los enfoques de Educación para la Salud hacia la realización de las intervenciones definidas en las Rutas Integrales de Atención en Salud (RIAS) son el comportamental y el crítico-participativo; con un modelo pedagógico interestructurante dialogante, donde se reconocen todas las dimensiones de la vida humana (cognitiva, socioafectiva, práxica) y todos los tipos de inteligencia.
 
@@ -768,7 +770,7 @@
             .col.p-4 
               p.mb-0 Para este modelo y postura en políticas nacionales de Educación para la Salud en el marco de las RIAS, el diálogo de saberes es el fundamento que permite una EpS basada en los sujetos y orientada a la autonomía de estos.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema5/img40.png' alt="EpS basada en los sujetos")
+        img(src='@/assets/curso/tema5/img40.png' alt="Imagen decorativa")
     
     separador
     #t_5_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -778,7 +780,7 @@
       .row.justify-content-end.align-items-end
         .col-lg-1.d-lg-none.d-flex
         .col-lg-3.col-6.mb-lg-0.pt-lg-0.pt-4.pe-lg-0.pe-5.mb-4
-          img(src='@/assets/curso/tema5/img41.png' alt="Profesionales de la salud")
+          img(src='@/assets/curso/tema5/img41.png' alt="Imagen decorativa")
         .col-lg-8.p-4
           .row.justify-content-start
             .col-2.ps-5.pe-4
@@ -797,7 +799,7 @@
             .col.p-4 
               p.mb-0 Lo anterior implica estar dispuesto a escuchar de forma activa e incluyente, en un marco de negociación cultural, generando acuerdos, hasta construir nuevos saberes-sentires (esto quiere decir que en un diálogo no solo circulan conocimientos, sino sentimientos, sueños, intereses, temores, e incluso prácticas). En el diálogo, habrá que percibir los lenguajes corporales, las intencionalidades, las relaciones entre actores, los poderes que circulan entre los participantes. Esto es imperativo para ser cuidadoso en el planteamiento del saber científico, de tal forma que permita reconocer #[strong qué se puede decir y qué no en ese contexto, qué les duele o a qué le temen, qué saben y qué no saben, qué quieren saber], etc. Los vacíos de saber son válidos tanto en los sujetos que aprenden como en los que enseñan y habrá que hacerlos evidentes para poder construir un nuevo saber.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema5/img42.png')
+        img(src='@/assets/curso/tema5/img42.png' alt="Imagen decorativa")
   
     p En suma, el diálogo de saberes implica la comprensión de la cultura (propia y de los otros), para generar acciones que incidan sobre las estructuras simbólicas de los participantes, lo cual se verá reflejado en su vida cotidiana.
 
@@ -810,7 +812,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 7
+          h5 Figura 8
           span Educación para la Salud
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema5/img43.svg' alt="Muestra Educación y comunicación para la salud, teniendo en cuenta la Ruta de promoción de Mantenimiento de la salud (RPMS), que se desarrolla en cuidar, pensar críticamente y agenciar que es transformar. RIAS de riesgo de evento, tiene gestión de riesgo, comprender, sentir, actuar.")
@@ -836,38 +838,38 @@
         .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="fade-right")
           .BG10.hg-09.mb-4
             .figure
-              img(src='@/assets/curso/tema5/img44.jpg' alt="Persona sola")
+              img(src='@/assets/curso/tema5/img44.jpg' alt="Imagen decorativa")
             .px-4.pb-4
               .row.justify-content-around.align-items-center.mb-2
                 .col
                   .h4.mb-0 Individual
                 .col-lg-2.col-3.img-01
-                  img(src='@/assets/curso/tema5/img09.svg')
+                  img(src='@/assets/curso/tema5/img09.svg' alt="Imagen decorativa")
               p.mb-0 Dirigida a un sujeto en un momento de curso de vida o a una familia.
           .BGR03A.hg-11.p-4
             p.mb-0 A cargo de EAPB - asegurador con la red de prestación de servicios.
         .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="flip-up")
           .BG11.hg-09
             .figure
-              img(src='@/assets/curso/tema5/img45.jpg' alt="Grupo")
+              img(src='@/assets/curso/tema5/img45.jpg' alt="Imagen decorativa")
             .px-4.pb-4
               .row.justify-content-around.align-items-center.mb-2
                 .col
                   .h4.mb-0 Grupal
                 .col-lg-2.col-3.img-01
-                  img(src='@/assets/curso/tema5/img09.svg')
+                  img(src='@/assets/curso/tema5/img09.svg' alt="Imagen decorativa")
               p Dirigida a personas que comparten determinado momento de curso de vida.
               p.mb-0 O a grupos de personas o familias que comparten alguna condición o situación.
         .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="fade-left")
           .BG10.hg-09.mb-4
             .figure
-              img(src='@/assets/curso/tema5/img46.jpg' alt="Colectivo")
+              img(src='@/assets/curso/tema5/img46.jpg' alt="Imagen decorativa")
             .px-4.pb-4
               .row.justify-content-around.align-items-center.mb-2
                 .col
                   .h4.mb-0 Colectivo
                 .col-lg-2.col-3.img-01
-                  img(src='@/assets/curso/tema5/img09.svg')
+                  img(src='@/assets/curso/tema5/img09.svg' alt="Imagen decorativa")
               p.mb-0 Dirigido a colectivos que comparten una condición o situación, personas que viven o se desarrollan en determinado entorno (algunos comparten más el mismo momento de curso de vida). 
           .BGR03A.hg-11.p-4
             p.mb-0 A cargo de la DTS con la ESE  en el marco del plan de salud de intervenciones colectivas.
@@ -895,13 +897,13 @@
               i.fas.fa-check-circle(style="color: #6F88DA;")
               | Las orientaciones pedagógicas, metodológicas y didácticas contenidas en el documento de marco conceptual y metodológico de Educación (y comunicación) para la Salud en el marco de las Rutas Integrales de Atención en Salud - RIAS.
         .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-          img(src='@/assets/curso/tema5/img47.png')
+          img(src='@/assets/curso/tema5/img47.png' alt="Imagen decorativa")
 
     .h4.mb-5 ¿Cómo?
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema5/img48.png')
+        img(src='@/assets/curso/tema5/img48.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         TabsA.color-acento-contenido
           .tarjeta.BGR03.p-4(titulo="Individual")
