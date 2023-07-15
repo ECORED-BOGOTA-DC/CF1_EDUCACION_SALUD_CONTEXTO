@@ -142,7 +142,7 @@
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.4 Gestión e intervenciones en las RIAS
 
-    p.mb-5 Las Rutas Integrales de Atención en Salud incorporan en su desarrollo tres categorías de atención que orientan la finalidad de las acciones sectoriales e intersectoriales y de las intervenciones individuales y colectivas dirigidas a personas, familias y comunidades. Los componentes son: i&#41; acciones de gestión de la salud pública; ii&#41; intervenciones de promoción de la salud, y iii&#41; intervenciones de gestión integral del riesgo en salud. 
+    p.mb-5 Las Rutas Integrales de Atención en Salud incorporan en su desarrollo tres categorías de atención que orientan la finalidad de las acciones sectoriales e intersectoriales y de las intervenciones individuales y colectivas dirigidas a personas, familias y comunidades. Los componentes son: i&#41; acciones de gestión de la salud pública; ii&#41; intervenciones de promoción de la salud, e iii&#41; intervenciones de gestión integral del riesgo en salud. 
 
     .BGM07.px-md-5.px-4.mb-5
       .row.justify-content-center
